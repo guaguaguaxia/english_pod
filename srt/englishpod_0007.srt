@@ -1,0 +1,957 @@
+1
+00:00:00,000 --> 00:00:06,520
+Hello English learners and welcome to EnglishPod. My name is Marco.
+
+2
+00:00:06,520 --> 00:00:07,520
+And I'm Erika.
+
+3
+00:00:07,520 --> 00:00:09,000
+Hey Erika, how are you today?
+
+4
+00:00:09,000 --> 00:00:13,680
+Marco, I'm doing really well and I'm really looking forward to today's lesson.
+
+5
+00:00:13,680 --> 00:00:18,240
+Well so am I because here at EnglishPod we're giving you real English.
+
+6
+00:00:18,240 --> 00:00:19,240
+Everyday English.
+
+7
+00:00:19,240 --> 00:00:23,280
+Exactly, English that you hear in movies or in TV shows.
+
+8
+00:00:23,280 --> 00:00:25,520
+This is English people actually use.
+
+9
+00:00:25,520 --> 00:00:27,760
+So Erika, what is our topic for today?
+
+10
+00:00:27,760 --> 00:00:30,840
+Well today we're talking about computer viruses.
+
+11
+00:00:30,840 --> 00:00:36,960
+Perfect, so I think it's time for us to take a look at our preview.
+
+12
+00:00:36,960 --> 00:00:37,960
+Vocabulary Preview.
+
+13
+00:00:37,960 --> 00:00:41,040
+Okay, today we've got two words to preview.
+
+14
+00:00:41,040 --> 00:00:43,760
+The first word is virus.
+
+15
+00:00:43,760 --> 00:00:44,760
+Virus.
+
+16
+00:00:44,760 --> 00:00:45,760
+Virus.
+
+17
+00:00:45,760 --> 00:00:46,760
+Virus.
+
+18
+00:00:46,760 --> 00:00:53,600
+So, if your computer has a computer virus, it means your computer is sick, right?
+
+19
+00:00:53,600 --> 00:00:59,040
+Actually a computer virus is a program that is designed to harm or to damage your computer.
+
+20
+00:00:59,040 --> 00:01:00,680
+Oh I see, okay.
+
+21
+00:01:00,680 --> 00:01:03,520
+Well, thank you for being so technical.
+
+22
+00:01:03,520 --> 00:01:05,320
+That's the technical explanation.
+
+23
+00:01:05,320 --> 00:01:11,480
+Okay, let's take a look at our second word for our preview today and that would be froze.
+
+24
+00:01:11,480 --> 00:01:12,480
+Froze.
+
+25
+00:01:12,480 --> 00:01:13,480
+Froze.
+
+26
+00:01:13,480 --> 00:01:14,480
+Froze.
+
+27
+00:01:14,480 --> 00:01:18,320
+So, if your computer froze, it means that...
+
+28
+00:01:18,320 --> 00:01:20,480
+Your computer stopped working.
+
+29
+00:01:20,480 --> 00:01:24,360
+Your applications or your programs stopped working and you just can't do anything.
+
+30
+00:01:24,360 --> 00:01:25,600
+Your computer is broken.
+
+31
+00:01:25,600 --> 00:01:26,600
+Okay, great.
+
+32
+00:01:26,600 --> 00:01:28,240
+So, let's listen to our dialogue.
+
+33
+00:01:28,240 --> 00:01:30,440
+It's going to be a little bit fast but...
+
+34
+00:01:30,440 --> 00:01:33,560
+Don't worry if you don't understand everything.
+
+35
+00:01:33,560 --> 00:01:37,600
+At the end of this podcast, you'll understand everything.
+
+36
+00:01:37,600 --> 00:01:40,600
+Perfect, let's listen.
+
+37
+00:01:40,600 --> 00:01:50,040
+Oh great, the stupid computer froze again.
+
+38
+00:01:50,040 --> 00:01:53,160
+It's the third time today.
+
+39
+00:01:53,160 --> 00:02:00,760
+Hey Samuel, can you come take a look at my PC?
+
+40
+00:02:00,760 --> 00:02:01,760
+It's acting up again.
+
+41
+00:02:01,760 --> 00:02:02,760
+It must have a virus or something.
+
+42
+00:02:02,760 --> 00:02:16,560
+Just give me a second, I'll be right up.
+
+43
+00:02:16,560 --> 00:02:20,120
+I ran a virus scan on your computer and it turns out that you have a lot of infected
+
+44
+00:02:20,120 --> 00:02:21,120
+files.
+
+45
+00:02:21,120 --> 00:02:23,720
+But I'm quite careful when I'm browsing the internet.
+
+46
+00:02:23,720 --> 00:02:26,720
+I have no idea how I could have picked up a virus.
+
+47
+00:02:26,720 --> 00:02:31,320
+Well, you have to make sure their antivirus software is updated regularly.
+
+48
+00:02:31,320 --> 00:02:32,520
+Yours wasn't up to date.
+
+49
+00:02:32,520 --> 00:02:34,880
+That's probably what was causing your problems.
+
+50
+00:02:34,880 --> 00:02:36,640
+Okay, anything else?
+
+51
+00:02:36,640 --> 00:02:39,640
+Yeah, try not to kick or hit the computer.
+
+52
+00:02:39,640 --> 00:02:49,480
+Um, yeah, sorry about that.
+
+53
+00:02:49,480 --> 00:02:51,280
+Well I completely understand this guy.
+
+54
+00:02:51,280 --> 00:02:55,520
+When my computer freezes, I kick it and punch it and do everything to it.
+
+55
+00:02:55,520 --> 00:02:58,040
+I hope you don't punch it too hard, Marco.
+
+56
+00:02:58,040 --> 00:03:00,080
+Well it's still working so it's alright.
+
+57
+00:03:00,080 --> 00:03:01,080
+Okay.
+
+58
+00:03:01,080 --> 00:03:06,340
+Alright, let's take a look at our language takeaway.
+
+59
+00:03:06,340 --> 00:03:08,640
+Language takeaway.
+
+60
+00:03:08,640 --> 00:03:12,440
+In today's language takeaway, we have two words.
+
+61
+00:03:12,440 --> 00:03:17,580
+The first word for today is infected file.
+
+62
+00:03:17,580 --> 00:03:19,320
+Infected file.
+
+63
+00:03:19,320 --> 00:03:21,120
+Infected file.
+
+64
+00:03:21,120 --> 00:03:22,120
+Infected file.
+
+65
+00:03:22,120 --> 00:03:23,740
+And what is an infected file?
+
+66
+00:03:23,740 --> 00:03:29,160
+An infected file is a file in your computer that has a virus in it.
+
+67
+00:03:29,160 --> 00:03:30,160
+Ah, perfect.
+
+68
+00:03:30,160 --> 00:03:31,660
+That's really clear.
+
+69
+00:03:31,660 --> 00:03:35,280
+What is our second word for the language takeaway today?
+
+70
+00:03:35,280 --> 00:03:39,000
+Our second word is not up to date.
+
+71
+00:03:39,000 --> 00:03:40,140
+Not up to date.
+
+72
+00:03:40,140 --> 00:03:41,220
+Not up to date.
+
+73
+00:03:41,220 --> 00:03:44,200
+And what is it when something is not up to date?
+
+74
+00:03:44,200 --> 00:03:48,600
+It means it doesn't have all the most recent information.
+
+75
+00:03:48,600 --> 00:03:50,500
+Okay, perfect.
+
+76
+00:03:50,500 --> 00:03:54,520
+Now let's listen to some examples.
+
+77
+00:03:54,520 --> 00:03:59,200
+Example one.
+
+78
+00:03:59,200 --> 00:04:07,520
+I need to buy a new computer because mine isn't up to date.
+
+79
+00:04:07,520 --> 00:04:09,520
+Example two.
+
+80
+00:04:09,520 --> 00:04:13,560
+I can't find the street.
+
+81
+00:04:13,560 --> 00:04:19,880
+Are you sure this map is up to date?
+
+82
+00:04:19,880 --> 00:04:25,880
+Example three.
+
+83
+00:04:25,880 --> 00:04:31,080
+Sarah has just finished the reports and all the information is up to date.
+
+84
+00:04:31,080 --> 00:04:34,800
+Okay, that was pretty clear.
+
+85
+00:04:34,800 --> 00:04:38,240
+You know, you can also use this phrase positively.
+
+86
+00:04:38,240 --> 00:04:40,400
+You can say up to date.
+
+87
+00:04:40,400 --> 00:04:43,600
+Okay, for example, we can say this is a new map.
+
+88
+00:04:43,600 --> 00:04:45,800
+This is the most up to date map.
+
+89
+00:04:45,800 --> 00:04:46,800
+Exactly.
+
+90
+00:04:46,800 --> 00:04:51,000
+Or if I bought a new computer, I could say I just got a new computer.
+
+91
+00:04:51,000 --> 00:04:53,640
+All my software is up to date.
+
+92
+00:04:53,640 --> 00:04:54,640
+Okay, great.
+
+93
+00:04:54,640 --> 00:04:57,120
+So now let's take a look at some phrases.
+
+94
+00:04:57,120 --> 00:05:02,000
+And it's time for putting it all together.
+
+95
+00:05:02,000 --> 00:05:03,000
+Putting it together.
+
+96
+00:05:03,000 --> 00:05:07,600
+Okay, so Samuel said a really great phrase.
+
+97
+00:05:07,600 --> 00:05:09,760
+He said, I'll be right up.
+
+98
+00:05:09,760 --> 00:05:10,920
+I'll be right up.
+
+99
+00:05:10,920 --> 00:05:12,160
+I'll be right up.
+
+100
+00:05:12,160 --> 00:05:13,560
+I'll be right up.
+
+101
+00:05:13,560 --> 00:05:17,360
+Now, we can use this phrase in a lot of different situations.
+
+102
+00:05:17,360 --> 00:05:21,000
+So let's listen to some examples.
+
+103
+00:05:21,000 --> 00:05:23,760
+Example one.
+
+104
+00:05:23,760 --> 00:05:25,320
+Can you help me with my computer?
+
+105
+00:05:25,320 --> 00:05:30,800
+I'll be right there.
+
+106
+00:05:30,800 --> 00:05:33,880
+Example two.
+
+107
+00:05:33,880 --> 00:05:34,880
+Come downstairs.
+
+108
+00:05:34,880 --> 00:05:35,880
+Dinner is ready.
+
+109
+00:05:35,880 --> 00:05:40,800
+I'll be right down.
+
+110
+00:05:40,800 --> 00:05:41,800
+Example three.
+
+111
+00:05:41,800 --> 00:05:42,800
+Hurry up.
+
+112
+00:05:42,800 --> 00:05:47,240
+I need to use the bathroom.
+
+113
+00:05:47,240 --> 00:05:50,760
+I'll be right out.
+
+114
+00:05:50,760 --> 00:05:55,600
+Okay, really great and clear examples, right?
+
+115
+00:05:55,600 --> 00:05:58,240
+Yeah, you know that phrase, I'll be right out.
+
+116
+00:05:58,240 --> 00:06:01,160
+I used to hear this all the time when I was young.
+
+117
+00:06:01,160 --> 00:06:02,160
+Really?
+
+118
+00:06:02,160 --> 00:06:03,160
+How come?
+
+119
+00:06:03,160 --> 00:06:05,840
+Well, I have two sisters and we were always fighting for the bathroom.
+
+120
+00:06:05,840 --> 00:06:10,120
+So someone was always saying, just a minute, I'll be right out.
+
+121
+00:06:10,120 --> 00:06:11,480
+Ah, yes, that's common.
+
+122
+00:06:11,480 --> 00:06:13,280
+I had that too when I was young.
+
+123
+00:06:13,280 --> 00:06:17,260
+Okay, now our second phrase is, it turns out that.
+
+124
+00:06:17,260 --> 00:06:18,860
+It turns out that.
+
+125
+00:06:18,860 --> 00:06:20,280
+It turns out that.
+
+126
+00:06:20,280 --> 00:06:21,760
+It turns out that.
+
+127
+00:06:21,760 --> 00:06:23,000
+This is a great phrase.
+
+128
+00:06:23,000 --> 00:06:24,840
+You can use it in many different situations.
+
+129
+00:06:24,840 --> 00:06:27,360
+Marco, can you give us an example?
+
+130
+00:06:27,360 --> 00:06:28,360
+Sure.
+
+131
+00:06:28,360 --> 00:06:33,960
+For example, I can say, Frank didn't come to work today and it turns out that he was
+
+132
+00:06:33,960 --> 00:06:34,960
+sick.
+
+133
+00:06:34,960 --> 00:06:35,960
+Yep.
+
+134
+00:06:35,960 --> 00:06:40,400
+Or I could say, oh, I've been feeling really sick recently.
+
+135
+00:06:40,400 --> 00:06:41,480
+Why?
+
+136
+00:06:41,480 --> 00:06:43,480
+It turns out that I'm pregnant.
+
+137
+00:06:43,480 --> 00:06:44,480
+Oh my God.
+
+138
+00:06:44,480 --> 00:06:45,480
+Are you really pregnant?
+
+139
+00:06:45,480 --> 00:06:46,480
+No, I'm not.
+
+140
+00:06:46,480 --> 00:06:47,480
+I'm just kidding.
+
+141
+00:06:47,480 --> 00:06:48,480
+All right.
+
+142
+00:06:48,480 --> 00:06:53,280
+So it's time for us to listen to our dialogue again, but this time it'll be a little bit
+
+143
+00:06:53,280 --> 00:06:54,520
+slower.
+
+144
+00:06:54,520 --> 00:06:57,260
+All right.
+
+145
+00:06:57,260 --> 00:07:00,200
+Oh great.
+
+146
+00:07:00,200 --> 00:07:06,000
+This stupid computer froze again.
+
+147
+00:07:06,000 --> 00:07:08,140
+That's the third time today.
+
+148
+00:07:08,140 --> 00:07:12,720
+Hey Samuel, can you come take a look at my PC?
+
+149
+00:07:12,720 --> 00:07:14,800
+It's acting up again.
+
+150
+00:07:14,800 --> 00:07:18,040
+It must have a virus or something.
+
+151
+00:07:18,040 --> 00:07:19,280
+Just give me a second.
+
+152
+00:07:19,280 --> 00:07:23,480
+I'll be right up.
+
+153
+00:07:23,480 --> 00:07:30,040
+I ran a virus scan on your computer and it turns out that you have a lot of infected
+
+154
+00:07:30,040 --> 00:07:31,420
+files.
+
+155
+00:07:31,420 --> 00:07:34,960
+But I'm quite careful when I'm browsing the internet.
+
+156
+00:07:34,960 --> 00:07:39,040
+I have no idea how I could have picked up a virus.
+
+157
+00:07:39,040 --> 00:07:45,760
+Well, you have to make sure that your antivirus software is updated regularly.
+
+158
+00:07:45,760 --> 00:07:47,920
+Yours wasn't up to date.
+
+159
+00:07:47,920 --> 00:07:51,640
+It's probably what was causing your problems.
+
+160
+00:07:51,640 --> 00:07:53,160
+Okay.
+
+161
+00:07:53,160 --> 00:07:54,640
+Anything else?
+
+162
+00:07:54,640 --> 00:07:55,840
+Yeah.
+
+163
+00:07:55,840 --> 00:07:59,040
+Try not to kick or hit the computer.
+
+164
+00:07:59,040 --> 00:08:00,640
+Um, yeah.
+
+165
+00:08:00,640 --> 00:08:03,640
+Sorry about that.
+
+166
+00:08:03,640 --> 00:08:06,120
+Okay.
+
+167
+00:08:06,120 --> 00:08:08,360
+That was a lot more clear this time.
+
+168
+00:08:08,360 --> 00:08:09,360
+Definitely.
+
+169
+00:08:09,360 --> 00:08:10,360
+Yeah.
+
+170
+00:08:10,360 --> 00:08:11,360
+I understood a lot more.
+
+171
+00:08:11,360 --> 00:08:12,360
+Okay.
+
+172
+00:08:12,360 --> 00:08:14,680
+So now it's time to look at Fluency Builder.
+
+173
+00:08:14,680 --> 00:08:18,240
+Erika, why don't you explain what Fluency Builder is?
+
+174
+00:08:18,240 --> 00:08:25,040
+In Fluency Builder, we give you some great useful phrases to help you express your ideas
+
+175
+00:08:25,040 --> 00:08:26,040
+clearly.
+
+176
+00:08:26,040 --> 00:08:27,040
+Okay, great.
+
+177
+00:08:27,040 --> 00:08:30,560
+So let's look at Fluency Builder.
+
+178
+00:08:30,560 --> 00:08:31,560
+Fluency Builder.
+
+179
+00:08:31,560 --> 00:08:32,560
+Okay.
+
+180
+00:08:32,560 --> 00:08:35,680
+So in this dialogue, we know his computer wasn't working.
+
+181
+00:08:35,680 --> 00:08:36,680
+Right.
+
+182
+00:08:36,680 --> 00:08:42,500
+So many students would probably say his computer was acting strangely.
+
+183
+00:08:42,500 --> 00:08:45,640
+His computer isn't working properly.
+
+184
+00:08:45,640 --> 00:08:46,640
+Exactly.
+
+185
+00:08:46,640 --> 00:08:48,040
+And that's perfect and that's fine.
+
+186
+00:08:48,040 --> 00:08:49,040
+Yeah.
+
+187
+00:08:49,040 --> 00:08:53,920
+But there's a really great way to say it that we heard in the dialogue.
+
+188
+00:08:53,920 --> 00:08:57,360
+It's acting up again.
+
+189
+00:08:57,360 --> 00:09:00,520
+It's acting up again.
+
+190
+00:09:00,520 --> 00:09:02,120
+I love this phrase.
+
+191
+00:09:02,120 --> 00:09:03,120
+It's acting up.
+
+192
+00:09:03,120 --> 00:09:04,120
+Yeah.
+
+193
+00:09:04,120 --> 00:09:05,360
+It just sounds really natural.
+
+194
+00:09:05,360 --> 00:09:06,720
+It sounds really natural.
+
+195
+00:09:06,720 --> 00:09:07,720
+Okay.
+
+196
+00:09:07,720 --> 00:09:13,120
+We're going to listen to our dialogue a third time, but this time it'll be at the normal
+
+197
+00:09:13,120 --> 00:09:14,280
+speed.
+
+198
+00:09:14,280 --> 00:09:19,200
+Try and see if you can hear these key words.
+
+199
+00:09:19,200 --> 00:09:26,480
+Oh, great.
+
+200
+00:09:26,480 --> 00:09:28,540
+The stupid computer froze again.
+
+201
+00:09:28,540 --> 00:09:31,720
+It's the third time today.
+
+202
+00:09:31,720 --> 00:09:37,560
+Hey, Samuel.
+
+203
+00:09:37,560 --> 00:09:39,280
+Can you come take a look at my PC?
+
+204
+00:09:39,280 --> 00:09:40,280
+It's acting up again.
+
+205
+00:09:40,280 --> 00:09:42,280
+It must have a virus or something.
+
+206
+00:09:42,280 --> 00:09:43,280
+Just give me a second.
+
+207
+00:09:43,280 --> 00:09:55,080
+I'll be right up.
+
+208
+00:09:55,080 --> 00:09:58,600
+I ran a virus scan on your computer and it turns out that you have a lot of infected
+
+209
+00:09:58,600 --> 00:09:59,600
+files.
+
+210
+00:09:59,600 --> 00:10:02,240
+But I'm quite careful when I'm browsing the internet.
+
+211
+00:10:02,240 --> 00:10:05,400
+I have no idea how I could have picked up a virus.
+
+212
+00:10:05,400 --> 00:10:09,840
+Well, you have to make sure their antivirus software is updated regularly.
+
+213
+00:10:09,840 --> 00:10:11,040
+Yours wasn't up to date.
+
+214
+00:10:11,040 --> 00:10:13,440
+That's probably what was causing your problems.
+
+215
+00:10:13,440 --> 00:10:14,440
+Okay.
+
+216
+00:10:14,440 --> 00:10:15,440
+Anything else?
+
+217
+00:10:15,440 --> 00:10:16,440
+Yeah.
+
+218
+00:10:16,440 --> 00:10:18,280
+Try not to kick or hit the computer.
+
+219
+00:10:18,280 --> 00:10:19,280
+Yeah.
+
+220
+00:10:19,280 --> 00:10:28,120
+Sorry about that.
+
+221
+00:10:28,120 --> 00:10:32,440
+So Marco, I really think that my computer actually has a virus now.
+
+222
+00:10:32,440 --> 00:10:33,440
+Really?
+
+223
+00:10:33,440 --> 00:10:34,440
+How come?
+
+224
+00:10:34,440 --> 00:10:39,480
+I've been turning on my computer and then suddenly it turns off by itself.
+
+225
+00:10:39,480 --> 00:10:40,800
+It shuts down by itself.
+
+226
+00:10:40,800 --> 00:10:41,800
+Yeah.
+
+227
+00:10:41,800 --> 00:10:42,800
+That sounds like a virus.
+
+228
+00:10:42,800 --> 00:10:46,320
+But I ran a virus scan and there was no problem.
+
+229
+00:10:46,320 --> 00:10:50,480
+Well, maybe your antivirus software isn't up to date.
+
+230
+00:10:50,480 --> 00:10:51,480
+Yeah.
+
+231
+00:10:51,480 --> 00:10:52,480
+I guess I'd better call Samuel.
+
+232
+00:10:52,480 --> 00:10:53,480
+Yeah.
+
+233
+00:10:53,480 --> 00:10:55,320
+You can call Samuel to fix it.
+
+234
+00:10:55,320 --> 00:10:56,320
+Yeah.
+
+235
+00:10:56,320 --> 00:10:57,320
+All right, folks.
+
+236
+00:10:57,320 --> 00:11:00,920
+We're out of time now, but be sure to go to our website at EnglishPod.com where you can
+
+237
+00:11:00,920 --> 00:11:03,380
+leave all your questions and comments.
+
+238
+00:11:03,380 --> 00:11:05,720
+So stay tuned for our next great lesson.
+
+239
+00:11:05,720 --> 00:11:33,380
+And until next time, goodbye.
+
+

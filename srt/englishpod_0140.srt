@@ -1,0 +1,1321 @@
+1
+00:00:00,000 --> 00:00:04,920
+Hello, English learners.
+
+2
+00:00:04,920 --> 00:00:06,240
+Welcome back to EnglishPod.
+
+3
+00:00:06,240 --> 00:00:07,240
+My name is Marco.
+
+4
+00:00:07,240 --> 00:00:08,760
+Katarina And my name is Katarina.
+
+5
+00:00:08,760 --> 00:00:10,280
+So what are we talking about today, Marco?
+
+6
+00:00:10,280 --> 00:00:12,320
+Marco Well, we're talking about one of my favorite
+
+7
+00:00:12,320 --> 00:00:13,320
+topics, which are computers.
+
+8
+00:00:13,320 --> 00:00:15,600
+Katarina Yes, you're a little bit of a nerd.
+
+9
+00:00:15,600 --> 00:00:17,160
+Marco A little bit.
+
+10
+00:00:17,160 --> 00:00:20,600
+I love computers and technology and everything that's related to it.
+
+11
+00:00:20,600 --> 00:00:22,800
+So that's what we're going to be looking at today.
+
+12
+00:00:22,800 --> 00:00:24,080
+Maybe we're buying a new computer.
+
+13
+00:00:24,080 --> 00:00:25,960
+Katarina Well, I anticipate learning something from
+
+14
+00:00:25,960 --> 00:00:29,160
+this because there are a lot of those fancy big words that I don't know that have to do
+
+15
+00:00:29,160 --> 00:00:32,880
+with processors and giga things.
+
+16
+00:00:32,880 --> 00:00:34,800
+So that's going to be coming up in a minute here.
+
+17
+00:00:34,800 --> 00:00:45,880
+But first, let's just jump right in and take a listen to today's dialogue.
+
+18
+00:00:45,880 --> 00:00:47,040
+So can you fix it?
+
+19
+00:00:47,040 --> 00:00:48,880
+I'm sorry, sir.
+
+20
+00:00:48,880 --> 00:00:51,080
+This computer is not broken or damaged.
+
+21
+00:00:51,080 --> 00:00:53,360
+It's simply just too old.
+
+22
+00:00:53,360 --> 00:00:56,360
+That's why your programs and applications are running slow.
+
+23
+00:00:56,360 --> 00:00:58,200
+There really isn't much I can do.
+
+24
+00:00:58,200 --> 00:00:59,200
+What do you mean?
+
+25
+00:00:59,200 --> 00:01:01,720
+I bought this computer just three years ago.
+
+26
+00:01:01,720 --> 00:01:08,240
+Yes, but technology is ever changing and technology is becoming obsolete faster and faster.
+
+27
+00:01:08,240 --> 00:01:11,000
+Okay, I know where this is going.
+
+28
+00:01:11,000 --> 00:01:13,800
+How much will it cost me to get a new computer?
+
+29
+00:01:13,800 --> 00:01:17,360
+Well, this desktop over here is our latest model.
+
+30
+00:01:17,360 --> 00:01:21,960
+It has a four gigahertz processor with 16 gigabytes in RAM and a hard disk with one
+
+31
+00:01:21,960 --> 00:01:23,000
+terabyte.
+
+32
+00:01:23,000 --> 00:01:27,320
+Of course, it includes a mouse, keyboard and desk speakers.
+
+33
+00:01:27,320 --> 00:01:30,000
+I have no idea what you're talking about.
+
+34
+00:01:30,000 --> 00:01:33,920
+I just want to know if it's good and if I'll be able to play solitaire without the computer
+
+35
+00:01:33,920 --> 00:01:36,160
+crashing or freezing all the time.
+
+36
+00:01:36,160 --> 00:01:39,920
+This PC is top of the line and I guarantee it will never freeze.
+
+37
+00:01:39,920 --> 00:01:42,520
+If it does, we'll give you your money back.
+
+38
+00:01:42,520 --> 00:01:47,760
+All right, we're back.
+
+39
+00:01:47,760 --> 00:01:52,200
+I think it's a very typical case you go in to get something fixed and they say, we can't
+
+40
+00:01:52,200 --> 00:01:53,200
+fix it.
+
+41
+00:01:53,200 --> 00:01:54,200
+You need a new one.
+
+42
+00:01:54,200 --> 00:01:58,400
+And not only a new one, but a bigger and better and faster one.
+
+43
+00:01:58,400 --> 00:02:00,000
+And more expensive, obviously.
+
+44
+00:02:00,000 --> 00:02:01,000
+Obviously.
+
+45
+00:02:01,000 --> 00:02:02,000
+Called the upsell.
+
+46
+00:02:02,000 --> 00:02:03,000
+The upsell, yeah.
+
+47
+00:02:03,000 --> 00:02:07,520
+All right, so there were some very difficult words, I think, because they're very specific
+
+48
+00:02:07,520 --> 00:02:09,840
+related to technology and computers.
+
+49
+00:02:09,840 --> 00:02:14,800
+So why don't we look at those now in Language Takeaway.
+
+50
+00:02:14,800 --> 00:02:15,800
+Language Takeaway.
+
+51
+00:02:15,800 --> 00:02:21,400
+All right, so the first word we have today is when something is no longer in use.
+
+52
+00:02:21,400 --> 00:02:24,160
+Okay, so this word is obsolete.
+
+53
+00:02:24,160 --> 00:02:25,160
+It's obsolete.
+
+54
+00:02:25,160 --> 00:02:26,160
+Obsolete.
+
+55
+00:02:26,160 --> 00:02:29,360
+And we're not just talking about like, oh, I haven't touched that pen in like 10 years.
+
+56
+00:02:29,360 --> 00:02:34,280
+We're talking about a piece of technology that is no longer useful because there's something
+
+57
+00:02:34,280 --> 00:02:36,640
+else that can do a better job.
+
+58
+00:02:36,640 --> 00:02:37,640
+Right.
+
+59
+00:02:37,640 --> 00:02:42,240
+And actually, not only with technology, we also have words that are obsolete, right?
+
+60
+00:02:42,240 --> 00:02:43,240
+Exactly.
+
+61
+00:02:43,240 --> 00:02:45,920
+Like, thy or thine.
+
+62
+00:02:45,920 --> 00:02:47,120
+You or yours.
+
+63
+00:02:47,120 --> 00:02:48,360
+Classical English.
+
+64
+00:02:48,360 --> 00:02:49,880
+We don't use thy anymore.
+
+65
+00:02:49,880 --> 00:02:50,880
+No.
+
+66
+00:02:50,880 --> 00:02:53,960
+Thou art very summery today, Marco.
+
+67
+00:02:53,960 --> 00:02:55,840
+We don't use that anymore.
+
+68
+00:02:55,840 --> 00:02:57,320
+That's obsolete English, right?
+
+69
+00:02:57,320 --> 00:02:58,600
+Or obsolete words.
+
+70
+00:02:58,600 --> 00:02:59,600
+Exactly.
+
+71
+00:02:59,600 --> 00:03:01,760
+So obsolete means it's no longer of use.
+
+72
+00:03:01,760 --> 00:03:04,920
+We have better and newer things in its place.
+
+73
+00:03:04,920 --> 00:03:06,080
+All right.
+
+74
+00:03:06,080 --> 00:03:13,760
+And now moving on, when the salesman was describing the characteristics of the computer, he used
+
+75
+00:03:13,760 --> 00:03:17,400
+some prefixes that were a little bit strange, right?
+
+76
+00:03:17,400 --> 00:03:18,880
+Like for example, giga.
+
+77
+00:03:18,880 --> 00:03:20,120
+Giga what?
+
+78
+00:03:20,120 --> 00:03:21,120
+Giga.
+
+79
+00:03:21,120 --> 00:03:24,200
+All right, so these are actually prefixes that have to do with numbers.
+
+80
+00:03:24,200 --> 00:03:26,200
+And so this is not just a computer thing.
+
+81
+00:03:26,200 --> 00:03:27,880
+This is a math thing or a science thing.
+
+82
+00:03:27,880 --> 00:03:30,560
+So okay, so we've got three different prefixes.
+
+83
+00:03:30,560 --> 00:03:33,160
+A prefix is something we tack on at the beginning of a word.
+
+84
+00:03:33,160 --> 00:03:36,880
+So we have hertz or byte, right?
+
+85
+00:03:36,880 --> 00:03:38,760
+These are little bits of a computer.
+
+86
+00:03:38,760 --> 00:03:39,760
+Byte.
+
+87
+00:03:39,760 --> 00:03:40,760
+Right.
+
+88
+00:03:40,760 --> 00:03:41,760
+So you have like megabytes.
+
+89
+00:03:41,760 --> 00:03:42,760
+Megabytes, we've all heard before.
+
+90
+00:03:42,760 --> 00:03:43,760
+That's the smallest here.
+
+91
+00:03:43,760 --> 00:03:46,760
+We've got megabytes, but bigger than mega, we've got gigabytes.
+
+92
+00:03:46,760 --> 00:03:47,760
+Gigabytes.
+
+93
+00:03:47,760 --> 00:03:53,160
+Yeah, so now for example, the hard drives are 250 gigabytes.
+
+94
+00:03:53,160 --> 00:03:55,040
+You might even hear someone say gigs.
+
+95
+00:03:55,040 --> 00:03:58,480
+You've got a 250 gig hard drive.
+
+96
+00:03:58,480 --> 00:04:00,040
+But what's bigger than giga?
+
+97
+00:04:00,040 --> 00:04:01,680
+Now it's the terabyte.
+
+98
+00:04:01,680 --> 00:04:04,880
+Oh, tera sounds like boom, boom, boom, boom.
+
+99
+00:04:04,880 --> 00:04:09,880
+I actually wondered what would happen after gigabyte because it's so much information
+
+100
+00:04:09,880 --> 00:04:10,880
+already.
+
+101
+00:04:10,880 --> 00:04:11,880
+And now it's the terabyte.
+
+102
+00:04:11,880 --> 00:04:14,400
+So it's like 1000 gigabytes.
+
+103
+00:04:14,400 --> 00:04:16,880
+So that's like 200 movies.
+
+104
+00:04:16,880 --> 00:04:18,440
+That's probably more than that.
+
+105
+00:04:18,440 --> 00:04:23,240
+It's amazing the amount of storage you can have and how small it actually is.
+
+106
+00:04:23,240 --> 00:04:28,120
+So mega, giga, tera, going from littlest to biggest.
+
+107
+00:04:28,120 --> 00:04:29,240
+All right.
+
+108
+00:04:29,240 --> 00:04:34,040
+And well, he described a 4 gigahertz processor.
+
+109
+00:04:34,040 --> 00:04:37,600
+Okay, so the processor is our next word.
+
+110
+00:04:37,600 --> 00:04:41,920
+And this is actually something that determines how fast your computer is going to run.
+
+111
+00:04:41,920 --> 00:04:44,160
+So it comes from the word to process, right?
+
+112
+00:04:44,160 --> 00:04:45,160
+Right.
+
+113
+00:04:45,160 --> 00:04:46,360
+To like calculate or to think.
+
+114
+00:04:46,360 --> 00:04:47,360
+To do even.
+
+115
+00:04:47,360 --> 00:04:48,360
+To do.
+
+116
+00:04:48,360 --> 00:04:50,960
+So you have different examples like a word processor.
+
+117
+00:04:50,960 --> 00:04:51,960
+Right.
+
+118
+00:04:51,960 --> 00:04:52,960
+So it's like Microsoft Word.
+
+119
+00:04:52,960 --> 00:04:55,760
+It allows you to make word documents.
+
+120
+00:04:55,760 --> 00:04:58,560
+You can also say to process data.
+
+121
+00:04:58,560 --> 00:05:00,240
+You're trying to calculate it.
+
+122
+00:05:00,240 --> 00:05:04,760
+But in this case, a processor is like a little brain that's the center of the computer and
+
+123
+00:05:04,760 --> 00:05:06,960
+that's where all the information gets processed.
+
+124
+00:05:06,960 --> 00:05:07,960
+Yeah.
+
+125
+00:05:07,960 --> 00:05:09,740
+So it's the brain of the computer essentially.
+
+126
+00:05:09,740 --> 00:05:12,360
+And the bigger it is, the faster it can go.
+
+127
+00:05:12,360 --> 00:05:13,360
+Exactly.
+
+128
+00:05:13,360 --> 00:05:19,160
+And well, if you don't have a very good processor, your computer is bound to freeze.
+
+129
+00:05:19,160 --> 00:05:20,520
+Okay.
+
+130
+00:05:20,520 --> 00:05:24,360
+So freezing is another key word, especially when talking about computers.
+
+131
+00:05:24,360 --> 00:05:26,480
+This one drives me nuts.
+
+132
+00:05:26,480 --> 00:05:28,960
+To freeze, it means to stop moving.
+
+133
+00:05:28,960 --> 00:05:29,960
+Right.
+
+134
+00:05:29,960 --> 00:05:30,960
+Right.
+
+135
+00:05:30,960 --> 00:05:31,960
+So, well, it has a couple of different meanings.
+
+136
+00:05:31,960 --> 00:05:33,400
+You might have heard it about ice before.
+
+137
+00:05:33,400 --> 00:05:35,180
+But to freeze here, we're talking about stopping moving.
+
+138
+00:05:35,180 --> 00:05:39,000
+So we have a game called freeze tag, where if I touch you, you have to stop running.
+
+139
+00:05:39,000 --> 00:05:40,000
+Right.
+
+140
+00:05:40,000 --> 00:05:41,160
+But here we're talking about a computer freezing.
+
+141
+00:05:41,160 --> 00:05:47,520
+I'm moving my mouse and I'm typing and all of a sudden, my mouse doesn't move.
+
+142
+00:05:47,520 --> 00:05:50,480
+I can't close or open or do anything.
+
+143
+00:05:50,480 --> 00:05:52,520
+And it's really frustrating.
+
+144
+00:05:52,520 --> 00:05:56,760
+Especially if you're doing something and you didn't save your work, it's gone.
+
+145
+00:05:56,760 --> 00:05:57,760
+Right.
+
+146
+00:05:57,760 --> 00:06:03,040
+So if your computer freezes, then usually you have to restart it or turn it off or not.
+
+147
+00:06:03,040 --> 00:06:05,320
+So that is about it for those words.
+
+148
+00:06:05,320 --> 00:06:08,960
+But let's take another listen and slow the dialogue down this time so you can catch some
+
+149
+00:06:08,960 --> 00:06:15,560
+of those big words.
+
+150
+00:06:15,560 --> 00:06:17,000
+So can you fix it?
+
+151
+00:06:17,000 --> 00:06:18,640
+I'm sorry, sir.
+
+152
+00:06:18,640 --> 00:06:20,840
+This computer is not broken or damaged.
+
+153
+00:06:20,840 --> 00:06:23,080
+It's simply just too old.
+
+154
+00:06:23,080 --> 00:06:26,120
+That's why your programs and applications are running slow.
+
+155
+00:06:26,120 --> 00:06:27,920
+There really isn't much I can do.
+
+156
+00:06:27,920 --> 00:06:28,920
+What do you mean?
+
+157
+00:06:28,920 --> 00:06:31,520
+I bought this computer just three years ago.
+
+158
+00:06:31,520 --> 00:06:37,920
+Yes, but technology is ever changing and technology is becoming obsolete faster and faster.
+
+159
+00:06:37,920 --> 00:06:40,640
+Okay, I know where this is going.
+
+160
+00:06:40,640 --> 00:06:43,520
+How much will it cost me to get a new computer?
+
+161
+00:06:43,520 --> 00:06:47,000
+Well, this desktop over here is our latest model.
+
+162
+00:06:47,000 --> 00:06:52,640
+It has a 4 gigahertz processor with 16 gigabytes in RAM and a hard disk with one terabyte.
+
+163
+00:06:52,640 --> 00:06:56,920
+Of course, it includes a mouse, keyboard and desk speakers.
+
+164
+00:06:56,920 --> 00:06:59,600
+I have no idea what you're talking about.
+
+165
+00:06:59,600 --> 00:07:03,560
+I just want to know if it's good and if I'll be able to play Solitaire without the computer
+
+166
+00:07:03,560 --> 00:07:05,800
+crashing or freezing all the time.
+
+167
+00:07:05,800 --> 00:07:09,560
+This PC is top of the line and I guarantee it will never freeze.
+
+168
+00:07:09,560 --> 00:07:12,560
+If it does, we'll give you your money back.
+
+169
+00:07:12,560 --> 00:07:15,600
+Great, so we are back.
+
+170
+00:07:15,600 --> 00:07:19,360
+So now let's jump into today's Fluency Builder.
+
+171
+00:07:19,360 --> 00:07:20,360
+Fluency Builder.
+
+172
+00:07:20,360 --> 00:07:24,200
+All right, so on Fluency Builder, we're going to take a look at three different phrases.
+
+173
+00:07:24,200 --> 00:07:28,640
+For example, the salesman was describing technology and said that it's ever changing.
+
+174
+00:07:28,640 --> 00:07:32,920
+Okay, so this is a sort of poetic line here.
+
+175
+00:07:32,920 --> 00:07:36,400
+So ever changing means always changing.
+
+176
+00:07:36,400 --> 00:07:37,400
+Always.
+
+177
+00:07:37,400 --> 00:07:38,400
+Always changing.
+
+178
+00:07:38,400 --> 00:07:41,080
+And so we can say that the ocean is ever changing.
+
+179
+00:07:41,080 --> 00:07:43,440
+You know, the waves are always changing.
+
+180
+00:07:43,440 --> 00:07:46,520
+But in this case, he's saying that technology is always changing.
+
+181
+00:07:46,520 --> 00:07:48,880
+It's always progressing into something new.
+
+182
+00:07:48,880 --> 00:07:52,760
+And so that is a key selling point for this guy.
+
+183
+00:07:52,760 --> 00:07:53,760
+Right.
+
+184
+00:07:53,760 --> 00:07:55,600
+So this is actually a very interesting word.
+
+185
+00:07:55,600 --> 00:08:01,240
+We can use it like in your example, beyond technology, like the way, like the sea is
+
+186
+00:08:01,240 --> 00:08:02,240
+ever changing.
+
+187
+00:08:02,240 --> 00:08:06,000
+So why don't we listen to a couple of other examples.
+
+188
+00:08:06,000 --> 00:08:08,400
+Example one.
+
+189
+00:08:08,400 --> 00:08:13,440
+There's always something new in this ever changing world.
+
+190
+00:08:13,440 --> 00:08:15,720
+Example two.
+
+191
+00:08:15,720 --> 00:08:21,080
+Times are ever changing and we must prepare ourselves better every day.
+
+192
+00:08:21,080 --> 00:08:23,280
+Example three.
+
+193
+00:08:23,280 --> 00:08:27,800
+The flu is an ever changing virus that continues to claim many lives.
+
+194
+00:08:27,800 --> 00:08:29,880
+All right, we're back.
+
+195
+00:08:29,880 --> 00:08:33,320
+So now we understand ever changing.
+
+196
+00:08:33,320 --> 00:08:38,240
+So the man who's trying to buy this computer, or at least get his computer fixed, really
+
+197
+00:08:38,240 --> 00:08:40,760
+starts to get frustrated with the salesman.
+
+198
+00:08:40,760 --> 00:08:44,560
+And he says, OK, I know where this is going.
+
+199
+00:08:44,560 --> 00:08:46,080
+So he hears the sales pitch.
+
+200
+00:08:46,080 --> 00:08:48,680
+He hears this guy trying to loosen him up a little bit.
+
+201
+00:08:48,680 --> 00:08:50,400
+He says, I know where this is going.
+
+202
+00:08:50,400 --> 00:08:52,400
+So what does this mean?
+
+203
+00:08:52,400 --> 00:08:53,840
+Where something is going.
+
+204
+00:08:53,840 --> 00:08:59,280
+So basically what direction a conversation or a topic or a situation is taking.
+
+205
+00:08:59,280 --> 00:09:03,280
+OK, so he's saying, I know why you're telling me these things.
+
+206
+00:09:03,280 --> 00:09:04,800
+I know your motive.
+
+207
+00:09:04,800 --> 00:09:06,080
+Or I know what's happening.
+
+208
+00:09:06,080 --> 00:09:07,480
+I know what you're going to say.
+
+209
+00:09:07,480 --> 00:09:12,000
+OK, so he's essentially saying, I know you're going to try and sell me a computer.
+
+210
+00:09:12,000 --> 00:09:13,000
+Right.
+
+211
+00:09:13,000 --> 00:09:15,320
+So you can use it in other circumstances, right?
+
+212
+00:09:15,320 --> 00:09:17,520
+For example, a relationship.
+
+213
+00:09:17,520 --> 00:09:18,840
+I don't know where this is going.
+
+214
+00:09:18,840 --> 00:09:19,840
+Right.
+
+215
+00:09:19,840 --> 00:09:20,840
+What is going?
+
+216
+00:09:20,840 --> 00:09:21,840
+Classic breakup line.
+
+217
+00:09:21,840 --> 00:09:25,180
+I just don't think I know where this is going anymore.
+
+218
+00:09:25,180 --> 00:09:26,960
+So in reference to the relationship, right?
+
+219
+00:09:26,960 --> 00:09:27,960
+Yeah.
+
+220
+00:09:27,960 --> 00:09:28,960
+We don't know what's happening.
+
+221
+00:09:28,960 --> 00:09:29,960
+Are we going to kiss?
+
+222
+00:09:29,960 --> 00:09:30,960
+Are we maybe going to get married?
+
+223
+00:09:30,960 --> 00:09:31,960
+I don't know anymore.
+
+224
+00:09:31,960 --> 00:09:33,240
+I can't tell where this movie is going.
+
+225
+00:09:33,240 --> 00:09:36,360
+It's so like, oh, here and there and boring.
+
+226
+00:09:36,360 --> 00:09:37,760
+You don't know the plot.
+
+227
+00:09:37,760 --> 00:09:38,760
+Yeah.
+
+228
+00:09:38,760 --> 00:09:39,760
+All right.
+
+229
+00:09:39,760 --> 00:09:43,000
+So it's a very common phrase and it sounds very natural when you say it, right?
+
+230
+00:09:43,000 --> 00:09:44,000
+It does.
+
+231
+00:09:44,000 --> 00:09:47,320
+And that's why as an influency builder, it really helps you sound like a more native
+
+232
+00:09:47,320 --> 00:09:49,580
+English speaker when you use these kind of phrases.
+
+233
+00:09:49,580 --> 00:09:51,720
+And the next one is also very, very good.
+
+234
+00:09:51,720 --> 00:09:56,600
+When he describes the condition of the computer, he says it's top of the line.
+
+235
+00:09:56,600 --> 00:09:57,600
+Top of the line.
+
+236
+00:09:57,600 --> 00:10:02,400
+Now, what line we're talking about, I do not know, but this is above average line, right?
+
+237
+00:10:02,400 --> 00:10:04,600
+So this is the best of the best.
+
+238
+00:10:04,600 --> 00:10:07,760
+This is the top model or the top computer.
+
+239
+00:10:07,760 --> 00:10:11,680
+And you can definitely imagine a car salesman using this.
+
+240
+00:10:11,680 --> 00:10:12,680
+Yeah.
+
+241
+00:10:12,680 --> 00:10:13,680
+Yes.
+
+242
+00:10:13,680 --> 00:10:14,680
+This BMW is top line.
+
+243
+00:10:14,680 --> 00:10:17,400
+It's the best money can buy.
+
+244
+00:10:17,400 --> 00:10:18,600
+That's another good one.
+
+245
+00:10:18,600 --> 00:10:21,320
+So basically top of the line is the best of the best.
+
+246
+00:10:21,320 --> 00:10:23,580
+The above average, right?
+
+247
+00:10:23,580 --> 00:10:24,580
+More than above average.
+
+248
+00:10:24,580 --> 00:10:26,180
+It's really it's the best you can do.
+
+249
+00:10:26,180 --> 00:10:29,760
+And so the guy is saying, listen, this is our best computer.
+
+250
+00:10:29,760 --> 00:10:30,760
+Really?
+
+251
+00:10:30,760 --> 00:10:31,760
+You should buy it.
+
+252
+00:10:31,760 --> 00:10:33,240
+And obviously, you have the line.
+
+253
+00:10:33,240 --> 00:10:34,640
+It's a lot of money.
+
+254
+00:10:34,640 --> 00:10:35,640
+Yeah.
+
+255
+00:10:35,640 --> 00:10:37,920
+It's usually for something that costs money, right?
+
+256
+00:10:37,920 --> 00:10:40,240
+For things you wouldn't really use it for a person, right?
+
+257
+00:10:40,240 --> 00:10:41,240
+He's top of the line.
+
+258
+00:10:41,240 --> 00:10:42,240
+No, no, no, no, no.
+
+259
+00:10:42,240 --> 00:10:47,480
+Top of the line, I think generally refers to electronics and cars or like motorcycles.
+
+260
+00:10:47,480 --> 00:10:53,240
+And so you often hear top of the line stereo, top line TV, top of the line car.
+
+261
+00:10:53,240 --> 00:10:56,600
+But you wouldn't say this about food or people or art.
+
+262
+00:10:56,600 --> 00:10:57,920
+Yeah, you wouldn't say this.
+
+263
+00:10:57,920 --> 00:11:00,240
+This painting is top of the line.
+
+264
+00:11:00,240 --> 00:11:01,560
+Not about like very unique things.
+
+265
+00:11:01,560 --> 00:11:04,840
+You'd say this about kind of manufactured things.
+
+266
+00:11:04,840 --> 00:11:05,840
+Very good.
+
+267
+00:11:05,840 --> 00:11:07,680
+So we've taken a look at a lot of great phrases.
+
+268
+00:11:07,680 --> 00:11:19,960
+Why don't we listen to our dialogue for the last time and then we'll come back.
+
+269
+00:11:19,960 --> 00:11:21,360
+So can you fix it?
+
+270
+00:11:21,360 --> 00:11:22,980
+I'm sorry, sir.
+
+271
+00:11:22,980 --> 00:11:25,160
+This computer is not broken or damaged.
+
+272
+00:11:25,160 --> 00:11:27,440
+It's simply just too old.
+
+273
+00:11:27,440 --> 00:11:30,480
+That's why your programs and applications are running slow.
+
+274
+00:11:30,480 --> 00:11:32,280
+There really isn't much I can do.
+
+275
+00:11:32,280 --> 00:11:33,280
+What do you mean?
+
+276
+00:11:33,280 --> 00:11:35,960
+I bought this computer just three years ago.
+
+277
+00:11:35,960 --> 00:11:42,360
+Yes, but technology is ever changing and technology is becoming obsolete faster and faster.
+
+278
+00:11:42,360 --> 00:11:45,100
+Okay, I know where this is going.
+
+279
+00:11:45,100 --> 00:11:47,960
+How much will it cost me to get a new computer?
+
+280
+00:11:47,960 --> 00:11:51,440
+Well, this desktop over here is our latest model.
+
+281
+00:11:51,440 --> 00:11:57,080
+It has a 4 gigahertz processor with 16 gigabytes in RAM and a hard disk with one terabyte.
+
+282
+00:11:57,080 --> 00:12:01,400
+Of course, it includes a mouse, keyboard, and desk speakers.
+
+283
+00:12:01,400 --> 00:12:04,080
+I have no idea what you are talking about.
+
+284
+00:12:04,080 --> 00:12:08,020
+I just want to know if it's good and if I'll be able to play Solitaire without the computer
+
+285
+00:12:08,020 --> 00:12:10,240
+crashing or freezing all the time.
+
+286
+00:12:10,240 --> 00:12:14,000
+This PC is top of the line and I guarantee it will never freeze.
+
+287
+00:12:14,000 --> 00:12:22,600
+If it does, we'll give you your money back.
+
+288
+00:12:22,600 --> 00:12:23,600
+All right, we're back.
+
+289
+00:12:23,600 --> 00:12:28,280
+So computers, Catherine, I know you recently got a nice Macintosh.
+
+290
+00:12:28,280 --> 00:12:30,720
+Yeah, yeah, I did.
+
+291
+00:12:30,720 --> 00:12:32,840
+It's one of those big screen ones, right?
+
+292
+00:12:32,840 --> 00:12:33,840
+Yeah, it is.
+
+293
+00:12:33,840 --> 00:12:34,840
+It's a desktop, right?
+
+294
+00:12:34,840 --> 00:12:40,840
+So it's not a laptop and it's got a very fast processor because Macs started using Intel
+
+295
+00:12:40,840 --> 00:12:43,560
+processors a couple of years ago and that made them much faster.
+
+296
+00:12:43,560 --> 00:12:48,160
+Wow, and it has, this processor actually has two cores, right?
+
+297
+00:12:48,160 --> 00:12:53,160
+So basically it has two different brains almost within one processor.
+
+298
+00:12:53,160 --> 00:12:55,560
+Which gives it really bad headaches.
+
+299
+00:12:55,560 --> 00:12:57,280
+She complains to me often.
+
+300
+00:12:57,280 --> 00:12:59,800
+Are you a big Mac fan or PC fan?
+
+301
+00:12:59,800 --> 00:13:00,800
+I'm a Mac fan.
+
+302
+00:13:00,800 --> 00:13:01,920
+I've been converted.
+
+303
+00:13:01,920 --> 00:13:07,320
+My roommate in college, my sophomore year, had a Mac and ever since then I've really
+
+304
+00:13:07,320 --> 00:13:08,320
+gotten into them.
+
+305
+00:13:08,320 --> 00:13:11,360
+So, yeah, I went Mac and didn't turn back.
+
+306
+00:13:11,360 --> 00:13:14,640
+I still honestly cannot really use a Mac.
+
+307
+00:13:14,640 --> 00:13:15,640
+I get confused.
+
+308
+00:13:15,640 --> 00:13:20,680
+I'm looking for the start button and I'm looking for where my documents are.
+
+309
+00:13:20,680 --> 00:13:23,080
+It's really hard to change over, right?
+
+310
+00:13:23,080 --> 00:13:26,720
+But once you do, you don't want to change back because everything is so much easier
+
+311
+00:13:26,720 --> 00:13:27,720
+on a Mac.
+
+312
+00:13:27,720 --> 00:13:28,720
+Really?
+
+313
+00:13:28,720 --> 00:13:31,440
+But if you're really into PC gaming, then you should probably stick with it.
+
+314
+00:13:31,440 --> 00:13:34,920
+Stick with the PCs because the games just don't really compare on Macs.
+
+315
+00:13:34,920 --> 00:13:38,040
+But I've heard that also Macs don't really suffer from viruses, right?
+
+316
+00:13:38,040 --> 00:13:39,840
+No, they don't, which is great.
+
+317
+00:13:39,840 --> 00:13:42,680
+Because I always used to get these viruses that would float on my computer because you
+
+318
+00:13:42,680 --> 00:13:47,760
+know you open some email and all of a sudden there's nastiness on your desktop.
+
+319
+00:13:47,760 --> 00:13:50,360
+Well now I don't really have that problem.
+
+320
+00:13:50,360 --> 00:13:55,320
+And also there's really wonderful photo editing software and video editing software.
+
+321
+00:13:55,320 --> 00:13:58,700
+So everything is just really easy to find and easy to use.
+
+322
+00:13:58,700 --> 00:13:59,880
+What about you listeners?
+
+323
+00:13:59,880 --> 00:14:01,480
+Do you prefer the Mac?
+
+324
+00:14:01,480 --> 00:14:02,960
+Do you prefer the PC?
+
+325
+00:14:02,960 --> 00:14:07,200
+Or maybe some of our listeners don't really even like computers.
+
+326
+00:14:07,200 --> 00:14:10,000
+So let us know either way, we're very curious to hear what you have to say.
+
+327
+00:14:10,000 --> 00:14:14,120
+And of course, writing on our comments section is great practice for your English.
+
+328
+00:14:14,120 --> 00:14:16,680
+Right, so we'll see you guys there and until next time.
+
+329
+00:14:16,680 --> 00:14:17,680
+Bye everyone.
+
+330
+00:14:17,680 --> 00:14:37,800
+Bye now.
+
+

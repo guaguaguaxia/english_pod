@@ -1,0 +1,1001 @@
+1
+00:00:00,000 --> 00:00:06,820
+Hello English learners and welcome to another great lesson with us here at EnglishPod.
+
+2
+00:00:06,820 --> 00:00:07,860
+My name is Marco.
+
+3
+00:00:07,860 --> 00:00:09,220
+And I'm Erika.
+
+4
+00:00:09,220 --> 00:00:12,640
+And today we're bringing you a great upper intermediate lesson.
+
+5
+00:00:12,640 --> 00:00:13,640
+That's right.
+
+6
+00:00:13,640 --> 00:00:18,380
+We're going to talk about a topic that's been in the news recently and this topic is...
+
+7
+00:00:18,380 --> 00:00:19,380
+The bird flu.
+
+8
+00:00:19,380 --> 00:00:20,380
+That's right.
+
+9
+00:00:20,380 --> 00:00:23,380
+So can you tell us what the bird flu really is?
+
+10
+00:00:23,380 --> 00:00:27,900
+Basically the story is a lot of chickens and birds keep getting this disease and they've
+
+11
+00:00:27,900 --> 00:00:30,840
+managed to pass this disease to humans.
+
+12
+00:00:30,840 --> 00:00:35,940
+And the fear is that humans will start to pass this disease to each other and a huge,
+
+13
+00:00:35,940 --> 00:00:39,020
+huge number of people in the world could get really sick.
+
+14
+00:00:39,020 --> 00:00:40,020
+Okay.
+
+15
+00:00:40,020 --> 00:00:41,020
+Yes.
+
+16
+00:00:41,020 --> 00:00:42,020
+So it sounds scary.
+
+17
+00:00:42,020 --> 00:00:45,820
+Well, it may be a little bit scary, but we do have some interesting language.
+
+18
+00:00:45,820 --> 00:00:51,280
+We've got language to talk about a disease and language that you might use in a planning
+
+19
+00:00:51,280 --> 00:00:52,540
+meeting at work.
+
+20
+00:00:52,540 --> 00:00:53,540
+All right.
+
+21
+00:00:53,540 --> 00:00:58,180
+So let's start by looking at our vocabulary preview for this dialogue.
+
+22
+00:00:58,180 --> 00:00:59,180
+Vocabulary preview.
+
+23
+00:00:59,180 --> 00:01:00,180
+Okay.
+
+24
+00:01:00,180 --> 00:01:05,020
+The first word on our vocabulary preview today is contingency plan.
+
+25
+00:01:05,020 --> 00:01:06,500
+Contingency plan.
+
+26
+00:01:06,500 --> 00:01:07,500
+Contingency plan.
+
+27
+00:01:07,500 --> 00:01:08,500
+Contingency plan.
+
+28
+00:01:08,500 --> 00:01:11,060
+So a contingency plan is a...
+
+29
+00:01:11,060 --> 00:01:14,520
+A plan that you make to prepare for an emergency.
+
+30
+00:01:14,520 --> 00:01:16,380
+So like a backup plan.
+
+31
+00:01:16,380 --> 00:01:17,380
+Exactly.
+
+32
+00:01:17,380 --> 00:01:18,380
+Okay.
+
+33
+00:01:18,380 --> 00:01:19,380
+Yep.
+
+34
+00:01:19,380 --> 00:01:20,380
+Contingency plan.
+
+35
+00:01:20,380 --> 00:01:23,060
+And our last word for the vocabulary preview today is pandemic.
+
+36
+00:01:23,060 --> 00:01:24,060
+Pandemic.
+
+37
+00:01:24,060 --> 00:01:25,060
+Pandemic.
+
+38
+00:01:25,060 --> 00:01:26,340
+Pandemic.
+
+39
+00:01:26,340 --> 00:01:28,220
+So a pandemic is something scary.
+
+40
+00:01:28,220 --> 00:01:29,380
+Well, yes.
+
+41
+00:01:29,380 --> 00:01:33,180
+It's an event where a disease affects a lot of people.
+
+42
+00:01:33,180 --> 00:01:35,500
+Like we're talking millions of people.
+
+43
+00:01:35,500 --> 00:01:36,500
+Okay.
+
+44
+00:01:36,500 --> 00:01:40,380
+And it spreads very quickly and it goes international.
+
+45
+00:01:40,380 --> 00:01:41,380
+Okay.
+
+46
+00:01:41,380 --> 00:01:44,860
+So a disease that spreads very fast and goes everywhere.
+
+47
+00:01:44,860 --> 00:01:45,860
+Exactly.
+
+48
+00:01:45,860 --> 00:01:46,860
+Okay.
+
+49
+00:01:46,860 --> 00:01:47,860
+Pandemic.
+
+50
+00:01:47,860 --> 00:01:48,860
+Okay.
+
+51
+00:01:48,860 --> 00:01:49,860
+So we're ready to listen to our dialogue.
+
+52
+00:01:49,860 --> 00:01:56,060
+We're going to be at a business meeting where people are talking about a contingency plan.
+
+53
+00:01:56,060 --> 00:02:03,220
+Well, right.
+
+54
+00:02:03,220 --> 00:02:06,540
+Let's move to our next order of business.
+
+55
+00:02:06,540 --> 00:02:12,300
+As many of you are aware, in recent weeks there has been a lot of media coverage surrounding
+
+56
+00:02:12,300 --> 00:02:14,980
+this bird flu issue.
+
+57
+00:02:14,980 --> 00:02:20,900
+And it's come to my attention that our company lacks any sort of bird flu contingency plan.
+
+58
+00:02:20,900 --> 00:02:23,660
+Basically, we need to come up with a clear plan.
+
+59
+00:02:23,660 --> 00:02:27,820
+We need to outline specific actions that our company can take to maintain critical business
+
+60
+00:02:27,820 --> 00:02:31,340
+functions in case a pandemic strikes.
+
+61
+00:02:31,340 --> 00:02:36,900
+So what I'd like to do is first appoint someone to look after drafting our plan.
+
+62
+00:02:36,900 --> 00:02:39,780
+Ralph, I'd like you to head up this project.
+
+63
+00:02:39,780 --> 00:02:40,780
+Sure.
+
+64
+00:02:40,780 --> 00:02:41,780
+No problem.
+
+65
+00:02:41,780 --> 00:02:42,780
+What issues do you want me to consider?
+
+66
+00:02:42,780 --> 00:02:43,780
+Well, let's see.
+
+67
+00:02:43,780 --> 00:02:46,940
+There are a few points we need to be thinking about.
+
+68
+00:02:46,940 --> 00:02:52,180
+First, I'll need you to analyse our numbers and figure out what kind of financial impact
+
+69
+00:02:52,180 --> 00:02:53,620
+an outbreak might have.
+
+70
+00:02:53,620 --> 00:02:59,180
+You'll also need to think about how we can avoid any of our employees getting infected.
+
+71
+00:02:59,180 --> 00:03:02,540
+Think of ways to reduce employee-customer contact.
+
+72
+00:03:02,540 --> 00:03:07,300
+Perhaps some IT solutions that will allow our people to work from home.
+
+73
+00:03:07,300 --> 00:03:11,300
+I guess you'll need me to forecast employee absences as well, right?
+
+74
+00:03:11,300 --> 00:03:14,140
+And I'll think about the impact this will have on our clients.
+
+75
+00:03:14,140 --> 00:03:15,700
+Hey, what about vaccines?
+
+76
+00:03:15,700 --> 00:03:19,660
+Should we be thinking about getting vaccines for our employees?
+
+77
+00:03:19,660 --> 00:03:23,620
+Exactly right.
+
+78
+00:03:23,620 --> 00:03:32,020
+So I'll leave this to you and we'll review the draft plan in two weeks.
+
+79
+00:03:32,020 --> 00:03:33,020
+Okay.
+
+80
+00:03:33,020 --> 00:03:42,980
+Does anyone want to order some KFC for lunch?
+
+81
+00:03:42,980 --> 00:03:44,580
+Alright what an ironic meeting.
+
+82
+00:03:44,580 --> 00:03:48,340
+They are talking about the bird flu and they are going to have chicken.
+
+83
+00:03:48,340 --> 00:03:51,140
+Yes, after sneezing all over.
+
+84
+00:03:51,140 --> 00:03:57,700
+Yeah, I guess now we could take a look at our language takeaway for this dialogue.
+
+85
+00:03:57,700 --> 00:03:59,500
+Language takeaway.
+
+86
+00:03:59,500 --> 00:04:02,620
+We heard a lot of really useful language in this dialogue and right now we're going to
+
+87
+00:04:02,620 --> 00:04:05,860
+look at four different words from the dialogue.
+
+88
+00:04:05,860 --> 00:04:08,660
+The first one is critical.
+
+89
+00:04:08,660 --> 00:04:09,660
+Critical.
+
+90
+00:04:09,660 --> 00:04:10,660
+Critical.
+
+91
+00:04:10,660 --> 00:04:11,660
+Critical.
+
+92
+00:04:11,660 --> 00:04:14,740
+We've got some examples of this word that will help us to understand the meaning.
+
+93
+00:04:14,740 --> 00:04:16,860
+So let's listen.
+
+94
+00:04:16,860 --> 00:04:20,620
+Example one.
+
+95
+00:04:20,620 --> 00:04:23,180
+It's absolutely critical that we increase our sales.
+
+96
+00:04:23,180 --> 00:04:28,420
+If not, the company will go bankrupt.
+
+97
+00:04:28,420 --> 00:04:31,780
+Example two.
+
+98
+00:04:31,780 --> 00:04:33,900
+We have a critical shortage of food.
+
+99
+00:04:33,900 --> 00:04:39,460
+If we don't get help, people will die.
+
+100
+00:04:39,460 --> 00:04:42,300
+Example three.
+
+101
+00:04:42,300 --> 00:04:44,400
+This is a critical step in the process.
+
+102
+00:04:44,400 --> 00:04:48,460
+You can't make a mistake here.
+
+103
+00:04:48,460 --> 00:04:52,820
+So when something's critical, it's basically really important, really urgent.
+
+104
+00:04:52,820 --> 00:04:53,820
+Right.
+
+105
+00:04:53,820 --> 00:04:54,820
+Okay, great word.
+
+106
+00:04:54,820 --> 00:04:55,820
+Critical.
+
+107
+00:04:55,820 --> 00:04:57,460
+The next word we have is outbreak.
+
+108
+00:04:57,460 --> 00:04:58,460
+Outbreak.
+
+109
+00:04:58,460 --> 00:04:59,460
+Outbreak.
+
+110
+00:04:59,460 --> 00:05:01,300
+An outbreak.
+
+111
+00:05:01,300 --> 00:05:06,500
+So an outbreak is a sudden start of a disease, right?
+
+112
+00:05:06,500 --> 00:05:09,500
+Can I say, oh, I got an outbreak of flu.
+
+113
+00:05:09,500 --> 00:05:11,340
+Can outbreak describe one person?
+
+114
+00:05:11,340 --> 00:05:14,860
+No, an outbreak means that it's infecting a lot of people.
+
+115
+00:05:14,860 --> 00:05:15,860
+Okay.
+
+116
+00:05:15,860 --> 00:05:16,860
+Not only one person.
+
+117
+00:05:16,860 --> 00:05:19,500
+So that we could say there was an outbreak of the flu at the office.
+
+118
+00:05:19,500 --> 00:05:20,500
+Right.
+
+119
+00:05:20,500 --> 00:05:21,500
+Which there was.
+
+120
+00:05:21,500 --> 00:05:22,500
+Yeah.
+
+121
+00:05:22,500 --> 00:05:23,500
+A lot of people got sick here with the flu.
+
+122
+00:05:23,500 --> 00:05:24,500
+Yeah.
+
+123
+00:05:24,500 --> 00:05:25,500
+Okay.
+
+124
+00:05:25,500 --> 00:05:27,060
+Why don't you tell us about our third word?
+
+125
+00:05:27,060 --> 00:05:29,060
+Our third word is forecast.
+
+126
+00:05:29,060 --> 00:05:30,060
+Forecast.
+
+127
+00:05:30,060 --> 00:05:31,060
+Forecast.
+
+128
+00:05:31,060 --> 00:05:35,820
+So to forecast basically means to predict.
+
+129
+00:05:35,820 --> 00:05:36,820
+Exactly.
+
+130
+00:05:36,820 --> 00:05:39,020
+For example, you talk about the weather forecast.
+
+131
+00:05:39,020 --> 00:05:40,020
+Yep.
+
+132
+00:05:40,020 --> 00:05:41,020
+Okay, great.
+
+133
+00:05:41,020 --> 00:05:44,420
+And the last word for our language takeaway is vaccines.
+
+134
+00:05:44,420 --> 00:05:45,420
+Vaccines.
+
+135
+00:05:45,420 --> 00:05:46,420
+Vaccines.
+
+136
+00:05:46,420 --> 00:05:47,420
+Vaccines.
+
+137
+00:05:47,420 --> 00:05:52,100
+So vaccines are something we all had when we were children.
+
+138
+00:05:52,100 --> 00:05:53,100
+That's true.
+
+139
+00:05:53,100 --> 00:05:59,420
+They are injections that you get to prevent you from getting sick later.
+
+140
+00:05:59,420 --> 00:06:00,420
+Right.
+
+141
+00:06:00,420 --> 00:06:05,380
+So an injection of medicine from your doctor so that you don't get a disease in the future.
+
+142
+00:06:05,380 --> 00:06:06,380
+Right.
+
+143
+00:06:06,380 --> 00:06:07,900
+When we are small, we get polio vaccine.
+
+144
+00:06:07,900 --> 00:06:08,900
+Yeah.
+
+145
+00:06:08,900 --> 00:06:09,900
+Or measles vaccine.
+
+146
+00:06:09,900 --> 00:06:10,900
+Measles.
+
+147
+00:06:10,900 --> 00:06:11,900
+Yeah.
+
+148
+00:06:11,900 --> 00:06:12,900
+A lot of common diseases.
+
+149
+00:06:12,900 --> 00:06:13,900
+Yes.
+
+150
+00:06:13,900 --> 00:06:14,900
+Okay.
+
+151
+00:06:14,900 --> 00:06:15,900
+So that's all for language takeaway.
+
+152
+00:06:15,900 --> 00:06:18,900
+Some great language related to health and disease.
+
+153
+00:06:18,900 --> 00:06:22,500
+But we also heard some great business related words in this dialogue.
+
+154
+00:06:22,500 --> 00:06:23,500
+That's true.
+
+155
+00:06:23,500 --> 00:06:26,260
+There's a lot of words that you can use in a planning meeting.
+
+156
+00:06:26,260 --> 00:06:30,300
+So let's look at those now in Fluency Builder.
+
+157
+00:06:30,300 --> 00:06:31,540
+Fluency Builder.
+
+158
+00:06:31,540 --> 00:06:35,300
+In today's Fluency Builder, we're going to look at four useful phrases.
+
+159
+00:06:35,300 --> 00:06:42,100
+Now this first phrase you can use when you want to change the subject at a meeting.
+
+160
+00:06:42,100 --> 00:06:45,140
+Let's listen to what they said in the dialogue.
+
+161
+00:06:45,140 --> 00:06:50,060
+Let's move to our next order of business.
+
+162
+00:06:50,060 --> 00:06:53,300
+Let's move to our next order of business.
+
+163
+00:06:53,300 --> 00:06:54,460
+Okay.
+
+164
+00:06:54,460 --> 00:06:57,260
+So let's move to our next order of business.
+
+165
+00:06:57,260 --> 00:06:59,900
+It's a great way of saying let's move on.
+
+166
+00:06:59,900 --> 00:07:00,900
+Exactly.
+
+167
+00:07:00,900 --> 00:07:01,900
+Let's pass to the next topic.
+
+168
+00:07:01,900 --> 00:07:02,900
+Great.
+
+169
+00:07:02,900 --> 00:07:06,300
+Speaking of passing to the next topic, we heard another really interesting phrase in
+
+170
+00:07:06,300 --> 00:07:07,300
+the dialogue.
+
+171
+00:07:07,300 --> 00:07:08,620
+Let's listen.
+
+172
+00:07:08,620 --> 00:07:14,220
+We need to come up with a clear plan.
+
+173
+00:07:14,220 --> 00:07:16,140
+We need to come up with a clear plan.
+
+174
+00:07:16,140 --> 00:07:21,020
+We need to think of a clear plan.
+
+175
+00:07:21,020 --> 00:07:22,020
+We need to come up with.
+
+176
+00:07:22,020 --> 00:07:23,020
+Yeah.
+
+177
+00:07:23,020 --> 00:07:24,020
+Okay.
+
+178
+00:07:24,020 --> 00:07:25,860
+Our third phrase we heard in the dialogue is this.
+
+179
+00:07:25,860 --> 00:07:26,860
+Okay.
+
+180
+00:07:26,860 --> 00:07:29,200
+I'd like you to head up this project.
+
+181
+00:07:29,200 --> 00:07:30,980
+So this phrase head up.
+
+182
+00:07:30,980 --> 00:07:32,260
+This is a great phrase.
+
+183
+00:07:32,260 --> 00:07:36,140
+It means I'd like you to lead or take care of this project.
+
+184
+00:07:36,140 --> 00:07:37,140
+Okay.
+
+185
+00:07:37,140 --> 00:07:43,300
+And the last phrase for fluency builder you can use when you want to give someone the
+
+186
+00:07:43,300 --> 00:07:45,180
+responsibility of a job.
+
+187
+00:07:45,180 --> 00:07:47,260
+We heard this.
+
+188
+00:07:47,260 --> 00:07:50,780
+So I'll leave this to you.
+
+189
+00:07:50,780 --> 00:07:52,940
+So I'll leave this to you.
+
+190
+00:07:52,940 --> 00:07:54,260
+So I'll leave this to you.
+
+191
+00:07:54,260 --> 00:07:56,140
+This is you take charge.
+
+192
+00:07:56,140 --> 00:07:57,140
+Exactly.
+
+193
+00:07:57,140 --> 00:07:58,320
+I'll leave this to you.
+
+194
+00:07:58,320 --> 00:08:01,060
+So great way of delegating a responsibility.
+
+195
+00:08:01,060 --> 00:08:06,580
+And so we're going to leave you to listen to our dialogue a last time and be sure to
+
+196
+00:08:06,580 --> 00:08:14,620
+pick up all the great vocabulary that we just talked about.
+
+197
+00:08:14,620 --> 00:08:15,900
+Well right.
+
+198
+00:08:15,900 --> 00:08:19,260
+Let's move to our next order of business.
+
+199
+00:08:19,260 --> 00:08:25,020
+As many of you are aware in recent weeks there has been a lot of media coverage surrounding
+
+200
+00:08:25,020 --> 00:08:26,980
+this bird flu issue.
+
+201
+00:08:26,980 --> 00:08:34,180
+And it's come to my attention that our company lacks any sort of bird flu contingency plan.
+
+202
+00:08:34,180 --> 00:08:36,340
+Basically we need to come up with a clear plan.
+
+203
+00:08:36,340 --> 00:08:40,500
+We need to outline specific actions that our company can take to maintain critical business
+
+204
+00:08:40,500 --> 00:08:44,060
+functions in case a pandemic strikes.
+
+205
+00:08:44,060 --> 00:08:49,540
+So what I'd like to do is first appoint someone to look after drafting our plan.
+
+206
+00:08:49,540 --> 00:08:53,020
+Ralph I'd like you to head up this project.
+
+207
+00:08:53,020 --> 00:08:54,020
+Sure no problem.
+
+208
+00:08:54,020 --> 00:08:56,100
+What issues do you want me to consider.
+
+209
+00:08:56,100 --> 00:08:57,100
+Well let's see.
+
+210
+00:08:57,100 --> 00:09:00,420
+There are a few points we need to be thinking about.
+
+211
+00:09:00,420 --> 00:09:04,900
+First I'll need you to analyze our numbers and figure out what kind of financial impact
+
+212
+00:09:04,900 --> 00:09:06,340
+an outbreak might have.
+
+213
+00:09:06,340 --> 00:09:11,900
+You also need to think about how we can avoid any of our employees getting infected.
+
+214
+00:09:11,900 --> 00:09:15,540
+Think of ways to reduce employee customer contact.
+
+215
+00:09:15,540 --> 00:09:20,020
+Perhaps some IT solutions that will allow our people to work from home.
+
+216
+00:09:20,020 --> 00:09:24,020
+I guess you'll need me to forecast employee absences as well right.
+
+217
+00:09:24,020 --> 00:09:27,300
+And I'll think about the impact this will have on our clients.
+
+218
+00:09:27,300 --> 00:09:28,300
+Hey what about vaccines.
+
+219
+00:09:28,300 --> 00:09:31,380
+Should we be thinking about getting vaccines for our employees.
+
+220
+00:09:31,380 --> 00:09:36,340
+Exactly right.
+
+221
+00:09:36,340 --> 00:09:44,620
+So I'll leave this to you and well we'll review the draft plan in two weeks.
+
+222
+00:09:44,620 --> 00:09:45,620
+Okay.
+
+223
+00:09:45,620 --> 00:09:55,860
+Does anyone want to order some KFC for lunch.
+
+224
+00:09:55,860 --> 00:09:56,860
+Okay great.
+
+225
+00:09:56,860 --> 00:10:00,820
+So this contingency plan idea is really interesting right.
+
+226
+00:10:00,820 --> 00:10:01,820
+Yeah.
+
+227
+00:10:01,820 --> 00:10:06,060
+It makes sense for a company to prepare in case there is an outbreak of bird flu.
+
+228
+00:10:06,060 --> 00:10:10,620
+I mean they need to maintain their critical business functions even if all the employees
+
+229
+00:10:10,620 --> 00:10:11,620
+are sick.
+
+230
+00:10:11,620 --> 00:10:12,620
+Hey right.
+
+231
+00:10:12,620 --> 00:10:18,300
+I guess that's really important and you have to forecast all these possibilities like people
+
+232
+00:10:18,300 --> 00:10:24,300
+are going to be away from the office or even forecast less sales etc.
+
+233
+00:10:24,300 --> 00:10:25,300
+That's right.
+
+234
+00:10:25,300 --> 00:10:29,460
+The interesting thing is that businesses that may not actually be involved in food production
+
+235
+00:10:29,460 --> 00:10:33,260
+or raising chickens or something like that are making these contingency plans.
+
+236
+00:10:33,260 --> 00:10:34,740
+I find that really fascinating.
+
+237
+00:10:34,740 --> 00:10:39,660
+So it seems there is a lot of fear out there about the possibility of a pandemic.
+
+238
+00:10:39,660 --> 00:10:40,660
+Yeah.
+
+239
+00:10:40,660 --> 00:10:41,660
+Yeah.
+
+240
+00:10:41,660 --> 00:10:45,100
+We're going to come out with a vaccine so we don't have to worry about these things.
+
+241
+00:10:45,100 --> 00:10:46,100
+That's true.
+
+242
+00:10:46,100 --> 00:10:49,020
+But until then we'll have to create contingency plans.
+
+243
+00:10:49,020 --> 00:10:50,020
+That's right.
+
+244
+00:10:50,020 --> 00:10:53,820
+Okay guys we're out of time today and I hope you enjoyed our lesson and found all these
+
+245
+00:10:53,820 --> 00:10:57,260
+words and phrases really useful and you can apply them in real life.
+
+246
+00:10:57,260 --> 00:11:02,180
+All right guys thanks for listening and be sure to check out our website EnglishPod.com
+
+247
+00:11:02,180 --> 00:11:04,620
+where you can leave all your questions and comments.
+
+248
+00:11:04,620 --> 00:11:07,140
+Marco and I are always around to answer your questions.
+
+249
+00:11:07,140 --> 00:11:09,500
+So until then it's bye.
+
+250
+00:11:09,500 --> 00:11:11,860
+Goodbye.
+
+

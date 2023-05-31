@@ -1,0 +1,1189 @@
+1
+00:00:00,000 --> 00:00:04,760
+Hello, English learners.
+
+2
+00:00:04,760 --> 00:00:06,080
+Welcome back to EnglishPod.
+
+3
+00:00:06,080 --> 00:00:07,080
+My name is Marco.
+
+4
+00:00:07,080 --> 00:00:08,480
+And my name is Katrin.
+
+5
+00:00:08,480 --> 00:00:12,560
+And today we've got a very, very useful lesson for all of you out there.
+
+6
+00:00:12,560 --> 00:00:13,560
+That's right.
+
+7
+00:00:13,560 --> 00:00:17,800
+We're bringing you part two of the What If series, which is a small series.
+
+8
+00:00:17,800 --> 00:00:18,800
+Small.
+
+9
+00:00:18,800 --> 00:00:23,240
+And it is kind of grammar focused, but it's very, very important because you often want
+
+10
+00:00:23,240 --> 00:00:25,480
+to talk about things that don't happen.
+
+11
+00:00:25,480 --> 00:00:28,400
+We're calling these hypotheticals or conditional statements.
+
+12
+00:00:28,400 --> 00:00:29,400
+Right.
+
+13
+00:00:29,400 --> 00:00:33,320
+And there are different types of hypotheticals or conditional statements.
+
+14
+00:00:33,320 --> 00:00:38,120
+So today we're going to be looking at the third conditional, which is probably the hardest
+
+15
+00:00:38,120 --> 00:00:42,060
+one because it uses a little bit of a complex grammar structure.
+
+16
+00:00:42,060 --> 00:00:45,640
+It's complex and we're actually talking about things that did not happen and that will not
+
+17
+00:00:45,640 --> 00:00:46,640
+happen, right?
+
+18
+00:00:46,640 --> 00:00:48,080
+It's impossible to change.
+
+19
+00:00:48,080 --> 00:00:52,000
+It's impossible to change these because there are things that would have happened in the
+
+20
+00:00:52,000 --> 00:00:53,240
+past but didn't.
+
+21
+00:00:53,240 --> 00:00:54,720
+Wow, that sounds confusing.
+
+22
+00:00:54,720 --> 00:00:59,760
+Why don't we listen to the dialogue for the first time and then we'll be back to look
+
+23
+00:00:59,760 --> 00:01:09,040
+at some phrases first.
+
+24
+00:01:09,040 --> 00:01:10,840
+This is the good life.
+
+25
+00:01:10,840 --> 00:01:12,600
+We have it good, don't you think?
+
+26
+00:01:12,600 --> 00:01:14,000
+Yeah, of course.
+
+27
+00:01:14,000 --> 00:01:17,520
+Although, don't you ever wonder what could have been?
+
+28
+00:01:17,520 --> 00:01:18,520
+What do you mean?
+
+29
+00:01:18,520 --> 00:01:23,320
+Well, sometimes I think of how things could have turned out if I had done things a little
+
+30
+00:01:23,320 --> 00:01:24,400
+differently.
+
+31
+00:01:24,400 --> 00:01:25,400
+For example?
+
+32
+00:01:25,400 --> 00:01:30,880
+Like, for example, if I hadn't studied architecture, I would have become an artist like I wanted
+
+33
+00:01:30,880 --> 00:01:31,880
+to.
+
+34
+00:01:31,880 --> 00:01:32,880
+I see.
+
+35
+00:01:32,880 --> 00:01:36,560
+Yeah, now that I think of it, I wouldn't have gotten married if I hadn't moved to this
+
+36
+00:01:36,560 --> 00:01:38,200
+town and met Sally.
+
+37
+00:01:38,200 --> 00:01:41,280
+You see, everything happens for a reason.
+
+38
+00:01:41,280 --> 00:01:45,520
+We wouldn't even have met if I hadn't been in that car accident ten years ago.
+
+39
+00:01:45,520 --> 00:01:47,680
+Well, I have no regrets.
+
+40
+00:01:47,680 --> 00:01:50,400
+I'll drink to that.
+
+41
+00:01:50,400 --> 00:01:57,600
+All right, so two guys, you know, talking about life.
+
+42
+00:01:57,600 --> 00:02:03,600
+I imagine these guys as being, you know, middle age or a little bit older, sitting on a porch,
+
+43
+00:02:03,600 --> 00:02:06,240
+drinking a beer, talking about what could have been.
+
+44
+00:02:06,240 --> 00:02:07,400
+Yeah, exactly.
+
+45
+00:02:07,400 --> 00:02:11,880
+They're kind of thinking about the past and the decisions they have made.
+
+46
+00:02:11,880 --> 00:02:12,880
+Yeah, exactly.
+
+47
+00:02:12,880 --> 00:02:17,400
+All right, so before we start in the grammar, why don't we take a look at a couple of different
+
+48
+00:02:17,400 --> 00:02:20,920
+phrases on Fluency Builder.
+
+49
+00:02:20,920 --> 00:02:21,920
+Fluency Builder.
+
+50
+00:02:21,920 --> 00:02:27,120
+Well, Marco, this first phrase is a phrase you'll hear very often in English.
+
+51
+00:02:27,120 --> 00:02:30,880
+It's a phrase that even has philosophical roots, something we talked a lot about when
+
+52
+00:02:30,880 --> 00:02:34,120
+we were studying Socrates back in school.
+
+53
+00:02:34,120 --> 00:02:36,000
+But this is the good life.
+
+54
+00:02:36,000 --> 00:02:37,360
+The good life.
+
+55
+00:02:37,360 --> 00:02:39,600
+We have the good life or I have a good life.
+
+56
+00:02:39,600 --> 00:02:44,380
+I have a good life is a very common phrase, but here the good life is an idiom.
+
+57
+00:02:44,380 --> 00:02:46,640
+So I'm living the good life.
+
+58
+00:02:46,640 --> 00:02:49,680
+It means, you know, I have no complaints about my life.
+
+59
+00:02:49,680 --> 00:02:53,040
+Right, so pretty much you have all your necessities covered.
+
+60
+00:02:53,040 --> 00:02:57,740
+And maybe you have a good, a nice family and you have a good job and you're just happy.
+
+61
+00:02:57,740 --> 00:02:59,920
+So this is the good life.
+
+62
+00:02:59,920 --> 00:03:00,920
+Very good.
+
+63
+00:03:00,920 --> 00:03:02,560
+So you have the good life.
+
+64
+00:03:02,560 --> 00:03:08,520
+Now moving on to another phrase that's kind of also philosophical, you know, it says everything
+
+65
+00:03:08,520 --> 00:03:10,920
+happens for a reason.
+
+66
+00:03:10,920 --> 00:03:12,020
+All right.
+
+67
+00:03:12,020 --> 00:03:15,640
+So this phrase is, well, it's also pretty common.
+
+68
+00:03:15,640 --> 00:03:18,840
+People say this when bad things happen, but they also say this when good things happen.
+
+69
+00:03:18,840 --> 00:03:19,840
+Yeah.
+
+70
+00:03:19,840 --> 00:03:22,280
+So basically you're just saying that it's destiny.
+
+71
+00:03:22,280 --> 00:03:26,120
+If this bad thing happened to you, there is a reason for it.
+
+72
+00:03:26,120 --> 00:03:31,720
+Maybe you don't see it now, maybe not tomorrow, but maybe later you'll see why.
+
+73
+00:03:31,720 --> 00:03:34,040
+This often happens when people lose their jobs.
+
+74
+00:03:34,040 --> 00:03:37,120
+You say, well, you know, everything happens for a reason.
+
+75
+00:03:37,120 --> 00:03:42,320
+Maybe losing this job will allow you to find a better job.
+
+76
+00:03:42,320 --> 00:03:44,500
+Or maybe go back to school and study.
+
+77
+00:03:44,500 --> 00:03:47,360
+Or maybe meet the man or woman of your dreams.
+
+78
+00:03:47,360 --> 00:03:48,360
+Right.
+
+79
+00:03:48,360 --> 00:03:50,120
+So everything happens for a reason.
+
+80
+00:03:50,120 --> 00:03:51,120
+Very good.
+
+81
+00:03:51,120 --> 00:03:53,840
+And then the guy agrees and says, well, I'll drink to that.
+
+82
+00:03:53,840 --> 00:03:54,840
+Okay.
+
+83
+00:03:54,840 --> 00:03:59,400
+So this is a way for people speaking English to say, listen, I agree with you.
+
+84
+00:03:59,400 --> 00:04:02,720
+I like that idea and I will, cheers.
+
+85
+00:04:02,720 --> 00:04:03,720
+Cheers.
+
+86
+00:04:03,720 --> 00:04:04,720
+Right.
+
+87
+00:04:04,720 --> 00:04:05,720
+Right.
+
+88
+00:04:05,720 --> 00:04:07,280
+So this means we're going to touch our glasses or touch our beer bottles and we're going
+
+89
+00:04:07,280 --> 00:04:11,700
+to, you know, think about how this is a, it's a nice thought, you know, everything happens
+
+90
+00:04:11,700 --> 00:04:13,560
+for a reason is positive.
+
+91
+00:04:13,560 --> 00:04:16,360
+It's a way to say, listen, good things can happen from this.
+
+92
+00:04:16,360 --> 00:04:18,400
+So he's saying, yes, I agree.
+
+93
+00:04:18,400 --> 00:04:19,400
+Cheers.
+
+94
+00:04:19,400 --> 00:04:20,400
+I'll drink to that.
+
+95
+00:04:20,400 --> 00:04:21,400
+I'll drink to that.
+
+96
+00:04:21,400 --> 00:04:22,400
+All right.
+
+97
+00:04:22,400 --> 00:04:23,400
+Well, pretty interesting phrases.
+
+98
+00:04:23,400 --> 00:04:27,440
+You know, they're very common, I guess, like colloquial, right?
+
+99
+00:04:27,440 --> 00:04:30,620
+So you can use them in everyday conversation with a friend.
+
+100
+00:04:30,620 --> 00:04:31,620
+You can.
+
+101
+00:04:31,620 --> 00:04:37,840
+And, you know, oftentimes we say, for example, something really positive, like, I'm really
+
+102
+00:04:37,840 --> 00:04:39,500
+glad I have such great friends.
+
+103
+00:04:39,500 --> 00:04:41,240
+And then everyone says, oh, I'll drink to that.
+
+104
+00:04:41,240 --> 00:04:42,240
+Right.
+
+105
+00:04:42,240 --> 00:04:45,520
+So this is something you'll hear when you're out with friends or with family.
+
+106
+00:04:45,520 --> 00:04:49,880
+And they may sound funny at first, but you will recognize them when you're speaking to
+
+107
+00:04:49,880 --> 00:04:50,880
+people who speak English.
+
+108
+00:04:50,880 --> 00:04:51,880
+All right.
+
+109
+00:04:51,880 --> 00:04:52,880
+So, all right.
+
+110
+00:04:52,880 --> 00:05:01,220
+So let's listen to our dialogue again and then we'll come back and explain the grammar.
+
+111
+00:05:01,220 --> 00:05:03,240
+This is the good life.
+
+112
+00:05:03,240 --> 00:05:05,680
+We have it good, don't you think?
+
+113
+00:05:05,680 --> 00:05:08,080
+Yeah, of course.
+
+114
+00:05:08,080 --> 00:05:12,840
+Although don't you ever wonder what could have been?
+
+115
+00:05:12,840 --> 00:05:14,560
+What do you mean?
+
+116
+00:05:14,560 --> 00:05:20,760
+Well, sometimes I think of how things could have turned out if I had done things a little
+
+117
+00:05:20,760 --> 00:05:22,220
+differently.
+
+118
+00:05:22,220 --> 00:05:23,520
+For example?
+
+119
+00:05:23,520 --> 00:05:30,440
+Like, for example, if I hadn't studied architecture, I would have become an artist like I wanted
+
+120
+00:05:30,440 --> 00:05:31,440
+to.
+
+121
+00:05:31,440 --> 00:05:32,440
+I see.
+
+122
+00:05:32,440 --> 00:05:33,440
+Yeah.
+
+123
+00:05:33,440 --> 00:05:37,720
+Now that I think of it, I wouldn't have gotten married if I hadn't moved to this town and
+
+124
+00:05:37,720 --> 00:05:38,720
+met Sally.
+
+125
+00:05:38,720 --> 00:05:43,200
+You see, everything happens for a reason.
+
+126
+00:05:43,200 --> 00:05:48,480
+We wouldn't even have met if I hadn't been in that car accident ten years ago.
+
+127
+00:05:48,480 --> 00:05:51,280
+Well, I have no regrets.
+
+128
+00:05:51,280 --> 00:05:53,440
+I'll drink to that.
+
+129
+00:05:53,440 --> 00:05:56,280
+Beep, beep, beep.
+
+130
+00:05:56,280 --> 00:05:57,640
+All right.
+
+131
+00:05:57,640 --> 00:06:01,960
+So now it's time for grammar breakdown.
+
+132
+00:06:01,960 --> 00:06:02,960
+Grammar breakdown.
+
+133
+00:06:02,960 --> 00:06:07,680
+So in grammar breakdown, we're going to look at the two main parts of these phrases that
+
+134
+00:06:07,680 --> 00:06:10,600
+allow us to talk about things that didn't happen.
+
+135
+00:06:10,600 --> 00:06:15,400
+So we're talking about looking back at our life and seeing what decisions and what actions
+
+136
+00:06:15,400 --> 00:06:17,320
+we made.
+
+137
+00:06:17,320 --> 00:06:19,960
+And in this case, we have a great sentence here.
+
+138
+00:06:19,960 --> 00:06:26,040
+If I hadn't studied architecture, I would have become an artist.
+
+139
+00:06:26,040 --> 00:06:27,080
+All right.
+
+140
+00:06:27,080 --> 00:06:29,800
+So let's look at the first part before the comma.
+
+141
+00:06:29,800 --> 00:06:34,440
+If I hadn't studied architecture, so now we have the conditional if.
+
+142
+00:06:34,440 --> 00:06:35,960
+So Marco, big question.
+
+143
+00:06:35,960 --> 00:06:37,280
+Did he study architecture?
+
+144
+00:06:37,280 --> 00:06:38,280
+He did.
+
+145
+00:06:38,280 --> 00:06:39,280
+He did.
+
+146
+00:06:39,280 --> 00:06:43,160
+So if I hadn't studied architecture, it means I did study architecture.
+
+147
+00:06:43,160 --> 00:06:50,680
+But if I had not studied it, okay, so this is if I could change the past, then what would
+
+148
+00:06:50,680 --> 00:06:51,680
+I have done?
+
+149
+00:06:51,680 --> 00:06:53,960
+I would have become an artist.
+
+150
+00:06:53,960 --> 00:06:54,960
+Okay.
+
+151
+00:06:54,960 --> 00:06:58,280
+So he wanted to be an artist, but he didn't become an artist.
+
+152
+00:06:58,280 --> 00:07:00,280
+He studied architecture instead.
+
+153
+00:07:00,280 --> 00:07:01,280
+Right.
+
+154
+00:07:01,280 --> 00:07:02,280
+Okay.
+
+155
+00:07:02,280 --> 00:07:03,280
+Very good.
+
+156
+00:07:03,280 --> 00:07:04,280
+You can see the two parts here.
+
+157
+00:07:04,280 --> 00:07:07,040
+We have one, the condition, if I hadn't done this thing.
+
+158
+00:07:07,040 --> 00:07:11,200
+And then afterwards, we have the result, then I would have become an artist.
+
+159
+00:07:11,200 --> 00:07:12,800
+So this is the hypothetical.
+
+160
+00:07:12,800 --> 00:07:13,800
+Very good.
+
+161
+00:07:13,800 --> 00:07:20,700
+And when we see the condition, you see the structure of the sentence is had plus verb
+
+162
+00:07:20,700 --> 00:07:21,920
+in past participle.
+
+163
+00:07:21,920 --> 00:07:27,560
+So if I hadn't studied architecture, and this is called the past perfect, right?
+
+164
+00:07:27,560 --> 00:07:33,000
+And then the result, as you said, would have become, this is the present perfect, have
+
+165
+00:07:33,000 --> 00:07:36,160
+or has plus verb in past participle.
+
+166
+00:07:36,160 --> 00:07:38,000
+Let's look at another example.
+
+167
+00:07:38,000 --> 00:07:44,000
+I wouldn't have gotten married if I hadn't moved to this town.
+
+168
+00:07:44,000 --> 00:07:45,080
+Okay.
+
+169
+00:07:45,080 --> 00:07:48,600
+So we've got the same idea here, but we've got it flipped.
+
+170
+00:07:48,600 --> 00:07:50,920
+We've got these two parts in different places.
+
+171
+00:07:50,920 --> 00:07:57,280
+And so he's pretty much saying, if I hadn't moved to this town, then I wouldn't have gotten
+
+172
+00:07:57,280 --> 00:07:58,480
+married.
+
+173
+00:07:58,480 --> 00:07:59,480
+But what did happen?
+
+174
+00:07:59,480 --> 00:08:02,040
+He did move to this town and he did get married.
+
+175
+00:08:02,040 --> 00:08:03,040
+Exactly.
+
+176
+00:08:03,040 --> 00:08:05,820
+So then, yeah, like you say, he changed the condition and you can do this.
+
+177
+00:08:05,820 --> 00:08:09,320
+You can put the condition in the beginning or at the end.
+
+178
+00:08:09,320 --> 00:08:11,040
+And again, the structure is the same.
+
+179
+00:08:11,040 --> 00:08:13,880
+I would have gotten married, right?
+
+180
+00:08:13,880 --> 00:08:18,280
+Have gotten, this is present perfect, have or has, depending on the subject, plus the
+
+181
+00:08:18,280 --> 00:08:20,320
+verb in past participle.
+
+182
+00:08:20,320 --> 00:08:26,580
+And then the past perfect or the condition, had plus verb in past participle, hadn't moved
+
+183
+00:08:26,580 --> 00:08:27,580
+to this town.
+
+184
+00:08:27,580 --> 00:08:28,580
+All right.
+
+185
+00:08:28,580 --> 00:08:29,640
+That's a lot of grammar.
+
+186
+00:08:29,640 --> 00:08:34,040
+It's a lot of grammar, but it's very easy once you just start using it.
+
+187
+00:08:34,040 --> 00:08:36,800
+Don't think too much about, okay, what do I do here?
+
+188
+00:08:36,800 --> 00:08:41,880
+Just, you know, if you get the rhythm and you start using it in the same way, then it
+
+189
+00:08:41,880 --> 00:08:42,960
+kind of comes out naturally.
+
+190
+00:08:42,960 --> 00:08:45,760
+And if you make a little mistake, there's not a big deal because even we do it, you
+
+191
+00:08:45,760 --> 00:08:46,760
+know?
+
+192
+00:08:46,760 --> 00:08:47,760
+Exactly.
+
+193
+00:08:47,760 --> 00:08:49,200
+Well, let's try a couple of examples off the top of our heads.
+
+194
+00:08:49,200 --> 00:08:56,840
+First of all, if I hadn't moved to China, I wouldn't have learned Chinese.
+
+195
+00:08:56,840 --> 00:08:57,840
+Very good.
+
+196
+00:08:57,840 --> 00:09:00,440
+So you did move to China and you did learn Chinese.
+
+197
+00:09:00,440 --> 00:09:01,440
+Exactly.
+
+198
+00:09:01,440 --> 00:09:02,440
+So your turn.
+
+199
+00:09:02,440 --> 00:09:03,840
+All right.
+
+200
+00:09:03,840 --> 00:09:09,080
+If my parents hadn't spoken Spanish to me when I was a kid, I wouldn't have become fluent
+
+201
+00:09:09,080 --> 00:09:10,080
+in Spanish.
+
+202
+00:09:10,080 --> 00:09:11,080
+Okay.
+
+203
+00:09:11,080 --> 00:09:14,920
+So your parents did speak Spanish to you and you did become fluent in Spanish.
+
+204
+00:09:14,920 --> 00:09:15,920
+So not bad.
+
+205
+00:09:15,920 --> 00:09:16,920
+Right.
+
+206
+00:09:16,920 --> 00:09:21,200
+So maybe you can use it not only to think about things in the past that you can't change
+
+207
+00:09:21,200 --> 00:09:26,120
+anymore, but just also, you know, kind of remember or say, you know, oh, if this hadn't
+
+208
+00:09:26,120 --> 00:09:28,040
+happened, the result.
+
+209
+00:09:28,040 --> 00:09:34,640
+Or if I hadn't opened my big mouth, my best friend wouldn't have gotten so angry at me.
+
+210
+00:09:34,640 --> 00:09:35,640
+Exactly.
+
+211
+00:09:35,640 --> 00:09:39,760
+So I said something stupid and my friend did get angry and now I feel bad about it.
+
+212
+00:09:39,760 --> 00:09:40,760
+It happens.
+
+213
+00:09:40,760 --> 00:09:41,760
+All right.
+
+214
+00:09:41,760 --> 00:09:42,760
+Very good.
+
+215
+00:09:42,760 --> 00:09:43,760
+So I hope it's clear.
+
+216
+00:09:43,760 --> 00:09:46,640
+It does sound a little bit complicated, but this is what our website is for, right?
+
+217
+00:09:46,640 --> 00:09:50,360
+So if you have questions or doubts or you want to try and plant your own ideas, you
+
+218
+00:09:50,360 --> 00:09:52,080
+can come to the website and do it.
+
+219
+00:09:52,080 --> 00:09:55,320
+Want to make some of your own sentences and practice some of these new things, then come
+
+220
+00:09:55,320 --> 00:10:00,160
+to our website, post some comments and we are happy to correct and add our own commentary
+
+221
+00:10:00,160 --> 00:10:01,160
+on those.
+
+222
+00:10:01,160 --> 00:10:02,160
+Exactly.
+
+223
+00:10:02,160 --> 00:10:13,360
+So before we go, let's listen to this dialogue one last time.
+
+224
+00:10:13,360 --> 00:10:15,160
+This is the good life.
+
+225
+00:10:15,160 --> 00:10:16,880
+You have it good, don't you think?
+
+226
+00:10:16,880 --> 00:10:18,320
+Yeah, of course.
+
+227
+00:10:18,320 --> 00:10:21,840
+Although, don't you ever wonder what could have been?
+
+228
+00:10:21,840 --> 00:10:22,840
+What do you mean?
+
+229
+00:10:22,840 --> 00:10:27,600
+Well, sometimes I think of how things could have turned out if I had done things a little
+
+230
+00:10:27,600 --> 00:10:28,720
+differently.
+
+231
+00:10:28,720 --> 00:10:29,720
+For example?
+
+232
+00:10:29,720 --> 00:10:35,200
+Like, for example, if I hadn't studied architecture, I would have become an artist like I wanted
+
+233
+00:10:35,200 --> 00:10:36,200
+to.
+
+234
+00:10:36,200 --> 00:10:37,200
+I see.
+
+235
+00:10:37,200 --> 00:10:38,200
+Yeah.
+
+236
+00:10:38,200 --> 00:10:41,360
+Now that I think of it, I wouldn't have gotten married if I hadn't moved to this town and
+
+237
+00:10:41,360 --> 00:10:42,360
+met Sally.
+
+238
+00:10:42,360 --> 00:10:45,560
+You see, everything happens for a reason.
+
+239
+00:10:45,560 --> 00:10:49,840
+We wouldn't even have met if I hadn't been in that car accident 10 years ago.
+
+240
+00:10:49,840 --> 00:10:51,960
+Well, I have no regrets.
+
+241
+00:10:51,960 --> 00:10:54,360
+I'll drink to that.
+
+242
+00:10:54,360 --> 00:11:01,400
+All right, we're back.
+
+243
+00:11:01,400 --> 00:11:06,760
+So, Catherine, any other regrets maybe in your life apart from opening your mouth?
+
+244
+00:11:06,760 --> 00:11:08,800
+Any other regrets?
+
+245
+00:11:08,800 --> 00:11:13,800
+If my parents had spoken Spanish to me as a kid, I would have learned.
+
+246
+00:11:13,800 --> 00:11:16,400
+But instead, I just learned English and that's all.
+
+247
+00:11:16,400 --> 00:11:19,560
+Well, your mom is half Swedish, right?
+
+248
+00:11:19,560 --> 00:11:21,200
+Half Swedish, half Czech.
+
+249
+00:11:21,200 --> 00:11:23,680
+And she never spoke any of these languages to you?
+
+250
+00:11:23,680 --> 00:11:25,920
+No, she didn't speak Swedish or Czech.
+
+251
+00:11:25,920 --> 00:11:30,560
+Her parents spoke English as their common language, but she grew up speaking Italian
+
+252
+00:11:30,560 --> 00:11:31,840
+and German.
+
+253
+00:11:31,840 --> 00:11:33,520
+But she didn't speak to me in those languages.
+
+254
+00:11:33,520 --> 00:11:36,960
+And then as an adult, she forgot some of them.
+
+255
+00:11:36,960 --> 00:11:42,520
+And so, because my dad was, well, they're both Americans now, but my dad's American.
+
+256
+00:11:42,520 --> 00:11:44,640
+They just spoke English to me.
+
+257
+00:11:44,640 --> 00:11:45,640
+Wow.
+
+258
+00:11:45,640 --> 00:11:46,640
+But now you speak Italian.
+
+259
+00:11:46,640 --> 00:11:49,280
+So, do you ever try and talk to your mom in Italian?
+
+260
+00:11:49,280 --> 00:11:50,280
+Sometimes.
+
+261
+00:11:50,280 --> 00:11:51,520
+My grandmother's Italian is much better.
+
+262
+00:11:51,520 --> 00:11:53,400
+So, my grandmother is completely fluent.
+
+263
+00:11:53,400 --> 00:11:56,440
+So I speak to her in Italian and German as well.
+
+264
+00:11:56,440 --> 00:11:57,440
+She's fluent in German too.
+
+265
+00:11:57,440 --> 00:11:58,680
+And I studied German at school.
+
+266
+00:11:58,680 --> 00:12:00,520
+See, this is the interesting thing now.
+
+267
+00:12:00,520 --> 00:12:03,520
+So many people are speaking so many languages.
+
+268
+00:12:03,520 --> 00:12:07,080
+Even before, if you spoke another foreign language, it was a big deal.
+
+269
+00:12:07,080 --> 00:12:08,080
+Oh yeah.
+
+270
+00:12:08,080 --> 00:12:09,080
+But now it's like a requirement.
+
+271
+00:12:09,080 --> 00:12:14,280
+You have to at least dominate your own native language and a foreign language, right?
+
+272
+00:12:14,280 --> 00:12:18,440
+So, if your native language is English, you at least have to speak Spanish or Chinese
+
+273
+00:12:18,440 --> 00:12:19,680
+or some other language.
+
+274
+00:12:19,680 --> 00:12:20,680
+Definitely true.
+
+275
+00:12:20,680 --> 00:12:26,760
+And I think there are a lot of people, a lot of our users that speak maybe two or three
+
+276
+00:12:26,760 --> 00:12:28,960
+languages and English is just one more.
+
+277
+00:12:28,960 --> 00:12:30,840
+So, you know, more power to them.
+
+278
+00:12:30,840 --> 00:12:34,520
+This is a really great skill to have and I think it's really important to keep on going
+
+279
+00:12:34,520 --> 00:12:36,560
+with it even though it's frustrating sometimes.
+
+280
+00:12:36,560 --> 00:12:42,600
+And actually, once you've been able, and actually once you mastered two or three different languages,
+
+281
+00:12:42,600 --> 00:12:44,840
+then the fourth and fifth just becomes easier.
+
+282
+00:12:44,840 --> 00:12:45,840
+Actually it's true.
+
+283
+00:12:45,840 --> 00:12:50,760
+It sounds funny when you hear it because you're like, how could it be easier to learn more?
+
+284
+00:12:50,760 --> 00:12:54,560
+But your brain starts to understand patterns better, right?
+
+285
+00:12:54,560 --> 00:12:56,320
+And so it just becomes more natural for you.
+
+286
+00:12:56,320 --> 00:12:59,920
+It just picks up patterns from the two or three other different languages that you dominate.
+
+287
+00:12:59,920 --> 00:13:02,240
+So it's a weird, it's strange how the brain works.
+
+288
+00:13:02,240 --> 00:13:03,240
+You make connections.
+
+289
+00:13:03,240 --> 00:13:04,240
+Yeah.
+
+290
+00:13:04,240 --> 00:13:05,240
+All right, guys.
+
+291
+00:13:05,240 --> 00:13:06,240
+So that's all for today.
+
+292
+00:13:06,240 --> 00:13:07,680
+Be sure to visit our website EnglishPod.com.
+
+293
+00:13:07,680 --> 00:13:14,080
+As we said, any questions or comments or you want us to correct your grammar of this lesson,
+
+294
+00:13:14,080 --> 00:13:16,200
+you can visit us there and we'll see you guys next time.
+
+295
+00:13:16,200 --> 00:13:17,200
+All right.
+
+296
+00:13:17,200 --> 00:13:18,200
+Bye everyone.
+
+297
+00:13:18,200 --> 00:13:33,480
+Special thanks topopular Editor Scotton McCray for en regulating Englishijn.com.
+
+

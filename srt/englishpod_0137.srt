@@ -1,0 +1,1389 @@
+1
+00:00:00,000 --> 00:00:04,080
+Hello English learners, welcome to EnglishPod.
+
+2
+00:00:04,080 --> 00:00:05,800
+My name is Marto.
+
+3
+00:00:05,800 --> 00:00:06,960
+And my name is Catherine.
+
+4
+00:00:06,960 --> 00:00:11,360
+And today we're talking about something very, very important in the computer age.
+
+5
+00:00:11,360 --> 00:00:12,360
+Internet.
+
+6
+00:00:12,360 --> 00:00:13,480
+Internet and internet connections.
+
+7
+00:00:13,480 --> 00:00:14,480
+Right.
+
+8
+00:00:14,480 --> 00:00:19,120
+I think, well, so many people use the internet now and have it, but it's sometimes a little
+
+9
+00:00:19,120 --> 00:00:24,200
+bit complicated to maybe get a plan or maybe if you're not too familiar with the terms,
+
+10
+00:00:24,200 --> 00:00:25,680
+that's what we're going to be looking at today.
+
+11
+00:00:25,680 --> 00:00:27,600
+So listen out for some of these words today.
+
+12
+00:00:27,600 --> 00:00:30,720
+We're talking on the phone with someone who's going to help us get a plan.
+
+13
+00:00:30,720 --> 00:00:34,480
+When we come back, we'll be talking all about what some of these words and phrases mean.
+
+14
+00:00:34,480 --> 00:00:42,360
+So if you're confused, just wait a couple seconds and we'll be back.
+
+15
+00:00:42,360 --> 00:00:43,520
+Welcome to Gallinet.
+
+16
+00:00:43,520 --> 00:00:44,800
+How can I help you?
+
+17
+00:00:44,800 --> 00:00:48,080
+Hi, I would like to get an internet plan for my house.
+
+18
+00:00:48,080 --> 00:00:50,120
+Of course.
+
+19
+00:00:50,120 --> 00:00:53,840
+We have three different plans with different prices you can choose from.
+
+20
+00:00:53,840 --> 00:00:58,880
+The first one is the cheapest, but most basic plan, which is $30 a month.
+
+21
+00:00:58,880 --> 00:01:04,680
+This is for broadband internet with a download speed of 512 kbps.
+
+22
+00:01:04,680 --> 00:01:07,840
+I have no idea what kbps means.
+
+23
+00:01:07,840 --> 00:01:11,480
+I just want to be able to get online, play games and chat with my friends.
+
+24
+00:01:11,480 --> 00:01:13,840
+Oh, and watch movies online as well.
+
+25
+00:01:13,840 --> 00:01:17,600
+Well, this connection might be a bit too slow for your needs.
+
+26
+00:01:17,600 --> 00:01:22,440
+I suggest you get the premium package for $50 a month, which includes a connection speed
+
+27
+00:01:22,440 --> 00:01:24,040
+of 2 megabytes.
+
+28
+00:01:24,040 --> 00:01:27,160
+That way, you can play games online without any lag.
+
+29
+00:01:27,160 --> 00:01:31,840
+This package also includes a wireless router and a personal firewall, absolutely free.
+
+30
+00:01:31,840 --> 00:01:34,760
+Do I have to pay an installation fee?
+
+31
+00:01:34,760 --> 00:01:38,720
+Lucky for you, this month we aren't charging our normal installation fee.
+
+32
+00:01:38,720 --> 00:01:41,480
+You're saving yourself $100 right there.
+
+33
+00:01:41,480 --> 00:01:43,640
+And we'll throw in this pen drive.
+
+34
+00:01:43,640 --> 00:01:44,640
+Awesome!
+
+35
+00:01:44,640 --> 00:01:48,280
+All right, so interesting.
+
+36
+00:01:48,280 --> 00:01:53,680
+A lot of these are technical terms specifically for internet and computers and connection
+
+37
+00:01:53,680 --> 00:01:54,680
+and all that stuff.
+
+38
+00:01:54,680 --> 00:01:59,320
+Yeah, and the nice thing about some of these words is that they can be used in other ways
+
+39
+00:01:59,320 --> 00:02:00,320
+as well.
+
+40
+00:02:00,320 --> 00:02:04,680
+So, we're learning about these and expanding our vocabularies, but they're useful in many
+
+41
+00:02:04,680 --> 00:02:07,320
+other contexts as well.
+
+42
+00:02:07,320 --> 00:02:14,000
+Okay, so let's get started with these words now in Language Takeaway.
+
+43
+00:02:14,000 --> 00:02:16,220
+Language Takeaway.
+
+44
+00:02:16,220 --> 00:02:20,640
+So this first phrase, for example, is something that you see advertised all the time and it's
+
+45
+00:02:20,640 --> 00:02:24,400
+a kind of internet connection.
+
+46
+00:02:24,400 --> 00:02:25,400
+Broadband internet.
+
+47
+00:02:25,400 --> 00:02:29,920
+Okay, so internet is pretty clear, but broadband, you might be asking, what the heck can this
+
+48
+00:02:29,920 --> 00:02:30,920
+mean?
+
+49
+00:02:30,920 --> 00:02:32,040
+Okay, so you have broad.
+
+50
+00:02:32,040 --> 00:02:34,480
+So broad means wide.
+
+51
+00:02:34,480 --> 00:02:39,000
+And a band is basically a frequency at which something works.
+
+52
+00:02:39,000 --> 00:02:40,000
+Like bandwidth.
+
+53
+00:02:40,000 --> 00:02:41,080
+Bandwidth, uh-huh.
+
+54
+00:02:41,080 --> 00:02:44,320
+So you have broadband, you have fast or high speed internet.
+
+55
+00:02:44,320 --> 00:02:48,480
+That means the bigger the space is, the more information can be transferred.
+
+56
+00:02:48,480 --> 00:02:50,680
+So it's a fast connection essentially.
+
+57
+00:02:50,680 --> 00:02:51,680
+Exactly.
+
+58
+00:02:51,680 --> 00:02:54,120
+Before broadband, we had dial-up internet.
+
+59
+00:02:54,120 --> 00:02:55,120
+Ooh.
+
+60
+00:02:55,120 --> 00:02:56,120
+Do-do-do-do-do-do-do-do.
+
+61
+00:02:56,120 --> 00:02:57,120
+Yeah.
+
+62
+00:02:57,120 --> 00:02:58,120
+Do-do-do-do-do-do-do-do.
+
+63
+00:02:58,120 --> 00:02:59,120
+Remember AOL?
+
+64
+00:02:59,120 --> 00:03:00,120
+Yeah, exactly.
+
+65
+00:03:00,120 --> 00:03:01,120
+It was so slow.
+
+66
+00:03:01,120 --> 00:03:06,120
+So you had to use your modem and call a number and then get connected by telephone.
+
+67
+00:03:06,120 --> 00:03:08,360
+So it was a dial-up connection, but it was so slow.
+
+68
+00:03:08,360 --> 00:03:11,960
+And every time it broke, the connection would break.
+
+69
+00:03:11,960 --> 00:03:14,360
+You had to dial-up again and go through the whole process.
+
+70
+00:03:14,360 --> 00:03:15,360
+It was so annoying.
+
+71
+00:03:15,360 --> 00:03:16,360
+Exactly.
+
+72
+00:03:16,360 --> 00:03:22,120
+So fortunately now, not many people use dial-up anymore and we have broadband internet.
+
+73
+00:03:22,120 --> 00:03:27,400
+Now if you have broadband internet, it's really convenient because you can download any type
+
+74
+00:03:27,400 --> 00:03:30,120
+of application or music, videos, et cetera.
+
+75
+00:03:30,120 --> 00:03:31,120
+Right.
+
+76
+00:03:31,120 --> 00:03:34,760
+So this is another key computer word that actually has a couple of different uses.
+
+77
+00:03:34,760 --> 00:03:39,160
+For example, as you said, you can download music or download photos.
+
+78
+00:03:39,160 --> 00:03:43,040
+That means you find a photo on the internet that you like and you could save it on your
+
+79
+00:03:43,040 --> 00:03:44,480
+computer.
+
+80
+00:03:44,480 --> 00:03:46,720
+But you can also have a download.
+
+81
+00:03:46,720 --> 00:03:48,160
+So it can be a thing too.
+
+82
+00:03:48,160 --> 00:03:49,160
+Okay.
+
+83
+00:03:49,160 --> 00:03:53,600
+So if maybe you're downloading three different files, you have three downloads.
+
+84
+00:03:53,600 --> 00:03:54,600
+Okay.
+
+85
+00:03:54,600 --> 00:03:57,320
+So to download and download.
+
+86
+00:03:57,320 --> 00:03:58,320
+Very good.
+
+87
+00:03:58,320 --> 00:04:01,200
+So now with internet, you have different speeds as we talked about, right?
+
+88
+00:04:01,200 --> 00:04:02,880
+How fast you're downloading something.
+
+89
+00:04:02,880 --> 00:04:06,000
+And the guy mentioned 512 kbps.
+
+90
+00:04:06,000 --> 00:04:08,320
+Oh no.
+
+91
+00:04:08,320 --> 00:04:10,560
+Not another one of these kbps.
+
+92
+00:04:10,560 --> 00:04:12,800
+So this one, actually this was pretty simple.
+
+93
+00:04:12,800 --> 00:04:14,280
+You can think about kilobytes.
+
+94
+00:04:14,280 --> 00:04:16,280
+You've heard about megabytes, kilobytes.
+
+95
+00:04:16,280 --> 00:04:18,520
+This is a size.
+
+96
+00:04:18,520 --> 00:04:22,280
+How fast you can receive these packets of information.
+
+97
+00:04:22,280 --> 00:04:26,040
+So 512 kilobytes per second.
+
+98
+00:04:26,040 --> 00:04:30,080
+Per second, that's, I have no idea how much that is.
+
+99
+00:04:30,080 --> 00:04:31,080
+It's maybe a lot.
+
+100
+00:04:31,080 --> 00:04:32,080
+It sounds like a lot.
+
+101
+00:04:32,080 --> 00:04:33,080
+Right.
+
+102
+00:04:33,080 --> 00:04:38,240
+Well, basically it is a lot, but we saw later that he was asking for a connection speed
+
+103
+00:04:38,240 --> 00:04:39,240
+of two megabytes.
+
+104
+00:04:39,240 --> 00:04:42,560
+Oh, so mega is bigger than kpbs, right?
+
+105
+00:04:42,560 --> 00:04:43,560
+Right.
+
+106
+00:04:43,560 --> 00:04:44,560
+All right.
+
+107
+00:04:44,560 --> 00:04:48,160
+So these are different speeds of transferring information, right?
+
+108
+00:04:48,160 --> 00:04:52,440
+So this is a way for you to see what kind of internet plan you want.
+
+109
+00:04:52,440 --> 00:04:53,440
+Exactly.
+
+110
+00:04:53,440 --> 00:04:58,040
+And so we have kilobytes, we have megabytes, and basically you want a faster connection
+
+111
+00:04:58,040 --> 00:05:00,640
+speed because you want to avoid lag.
+
+112
+00:05:00,640 --> 00:05:02,360
+Ooh, lag.
+
+113
+00:05:02,360 --> 00:05:03,960
+All right.
+
+114
+00:05:03,960 --> 00:05:06,200
+This is a word that you can use in a lot of different ways.
+
+115
+00:05:06,200 --> 00:05:09,040
+For example, my brother always lags behind.
+
+116
+00:05:09,040 --> 00:05:10,040
+Okay.
+
+117
+00:05:10,040 --> 00:05:12,800
+So it's a verb, but in this case we're talking about the noun.
+
+118
+00:05:12,800 --> 00:05:14,280
+So lag is slowness.
+
+119
+00:05:14,280 --> 00:05:15,280
+Yeah.
+
+120
+00:05:15,280 --> 00:05:16,280
+It's like a delay.
+
+121
+00:05:16,280 --> 00:05:17,280
+Yeah.
+
+122
+00:05:17,280 --> 00:05:18,480
+It's a delay in something.
+
+123
+00:05:18,480 --> 00:05:23,520
+So in this case, I can't even play my video games because there's too much lag.
+
+124
+00:05:23,520 --> 00:05:25,600
+So that means the internet's too slow.
+
+125
+00:05:25,600 --> 00:05:26,600
+Too slow.
+
+126
+00:05:26,600 --> 00:05:27,600
+Exactly.
+
+127
+00:05:27,600 --> 00:05:30,900
+So that's what happens when you have a slow connection speed, you have lag.
+
+128
+00:05:30,900 --> 00:05:34,480
+And as you can say, it refers to something that's slow or delayed.
+
+129
+00:05:34,480 --> 00:05:39,760
+So you can use it in other contexts when you want to say something is a little bit slow.
+
+130
+00:05:39,760 --> 00:05:45,160
+Well and another key thing here as we're talking about internet connections is the router.
+
+131
+00:05:45,160 --> 00:05:50,880
+So router is something that helps us to route an internet connection.
+
+132
+00:05:50,880 --> 00:05:53,040
+So for example.
+
+133
+00:05:53,040 --> 00:05:58,520
+So it basically distributes the internet connection to different computers or to different users.
+
+134
+00:05:58,520 --> 00:06:01,320
+And some of these you plug in and some of them are wireless.
+
+135
+00:06:01,320 --> 00:06:02,760
+That means without a wire.
+
+136
+00:06:02,760 --> 00:06:07,240
+So a wireless router is something, a little box in your house that allows you to maybe
+
+137
+00:06:07,240 --> 00:06:11,800
+have three or four computers on one broadband connection.
+
+138
+00:06:11,800 --> 00:06:12,800
+Right.
+
+139
+00:06:12,800 --> 00:06:13,800
+So it's very popular now.
+
+140
+00:06:13,800 --> 00:06:16,360
+You go to Starbucks and you have Wi-Fi.
+
+141
+00:06:16,360 --> 00:06:20,920
+In order to have Wi-Fi or wireless internet, you need a router, a wireless router.
+
+142
+00:06:20,920 --> 00:06:21,920
+Okay.
+
+143
+00:06:21,920 --> 00:06:23,440
+So wireless router.
+
+144
+00:06:23,440 --> 00:06:27,360
+And finally, what is something that might get in the way of a connection?
+
+145
+00:06:27,360 --> 00:06:29,000
+You have a firewall.
+
+146
+00:06:29,000 --> 00:06:31,920
+Very important security measure when navigating the internet.
+
+147
+00:06:31,920 --> 00:06:32,920
+All right.
+
+148
+00:06:32,920 --> 00:06:36,560
+So personal firewall is a firewall that you have on your computer to keep people from
+
+149
+00:06:36,560 --> 00:06:37,680
+spying on you.
+
+150
+00:06:37,680 --> 00:06:40,420
+This keeps other people out.
+
+151
+00:06:40,420 --> 00:06:41,420
+So it's exactly that.
+
+152
+00:06:41,420 --> 00:06:46,520
+It's a wall between your computer and the outside world.
+
+153
+00:06:46,520 --> 00:06:50,960
+So it protects you from any type of maybe malicious intruders.
+
+154
+00:06:50,960 --> 00:06:51,960
+Right.
+
+155
+00:06:51,960 --> 00:06:59,120
+And oftentimes governments and public offices, things like that, law offices, they have firewalls
+
+156
+00:06:59,120 --> 00:07:03,840
+to protect the information that they store because it's so important that it's secretive.
+
+157
+00:07:03,840 --> 00:07:04,840
+Yeah.
+
+158
+00:07:04,840 --> 00:07:05,840
+So firewalls.
+
+159
+00:07:05,840 --> 00:07:09,960
+There are many different types of firewalls, but a personal firewall is just a basic one.
+
+160
+00:07:09,960 --> 00:07:10,960
+Great.
+
+161
+00:07:10,960 --> 00:07:13,320
+So that is our language takeaway for today.
+
+162
+00:07:13,320 --> 00:07:23,600
+Let's check out this dialogue again and slow it down a bit this time.
+
+163
+00:07:23,600 --> 00:07:24,920
+Welcome to Gallinet.
+
+164
+00:07:24,920 --> 00:07:26,240
+How can I help you?
+
+165
+00:07:26,240 --> 00:07:27,240
+Hi.
+
+166
+00:07:27,240 --> 00:07:29,400
+I would like to get an internet plan for my house.
+
+167
+00:07:29,400 --> 00:07:30,560
+Of course.
+
+168
+00:07:30,560 --> 00:07:34,280
+We have three different plans with different prices you can choose from.
+
+169
+00:07:34,280 --> 00:07:39,280
+The first one is the cheapest, but most basic plan, which is $30 a month.
+
+170
+00:07:39,280 --> 00:07:45,080
+This is for broadband internet with a download speed of 512 kbps.
+
+171
+00:07:45,080 --> 00:07:48,240
+I have no idea what kbps means.
+
+172
+00:07:48,240 --> 00:07:51,880
+I just want to be able to get online, play games, and chat with my friends.
+
+173
+00:07:51,880 --> 00:07:54,280
+Oh, and watch movies online as well.
+
+174
+00:07:54,280 --> 00:07:57,960
+Well, this connection might be a bit too slow for your needs.
+
+175
+00:07:57,960 --> 00:08:02,880
+I suggest you get the premium package for $50 a month, which includes a connection speed
+
+176
+00:08:02,880 --> 00:08:04,480
+of 2 megabytes.
+
+177
+00:08:04,480 --> 00:08:07,600
+That way, you can play games online without any lag.
+
+178
+00:08:07,600 --> 00:08:12,240
+This package also includes a wireless router and a personal firewall, absolutely free.
+
+179
+00:08:12,240 --> 00:08:14,520
+Do I have to pay an installation fee?
+
+180
+00:08:14,520 --> 00:08:18,520
+Lucky for you, this month we aren't charging our normal installation fee.
+
+181
+00:08:18,520 --> 00:08:23,320
+You're saving yourself $100 right there, and we'll throw in this pen drive.
+
+182
+00:08:23,320 --> 00:08:24,320
+Awesome.
+
+183
+00:08:24,320 --> 00:08:26,920
+All right, great.
+
+184
+00:08:26,920 --> 00:08:31,480
+So we just heard all these words that we looked at before, but now why don't we take a look
+
+185
+00:08:31,480 --> 00:08:35,840
+at some of these phrases in Fluency Builder.
+
+186
+00:08:35,840 --> 00:08:36,840
+Fluency Builder.
+
+187
+00:08:36,840 --> 00:08:38,000
+What's this first one?
+
+188
+00:08:38,000 --> 00:08:39,200
+I can't read it.
+
+189
+00:08:39,200 --> 00:08:40,520
+I have no idea.
+
+190
+00:08:40,520 --> 00:08:41,520
+What?
+
+191
+00:08:41,520 --> 00:08:43,280
+Well, didn't you write it down?
+
+192
+00:08:43,280 --> 00:08:45,480
+I have no idea what you're talking about.
+
+193
+00:08:45,480 --> 00:08:46,480
+All right.
+
+194
+00:08:46,480 --> 00:08:47,480
+Enough games.
+
+195
+00:08:47,480 --> 00:08:48,480
+No.
+
+196
+00:08:48,480 --> 00:08:49,480
+I have no idea.
+
+197
+00:08:49,480 --> 00:08:53,520
+Well, it's going to treat this as a phrase that gets said as is.
+
+198
+00:08:53,520 --> 00:08:56,040
+We're not going to take bits and pieces of it.
+
+199
+00:08:56,040 --> 00:09:00,600
+So I have no idea, or he has no idea, is a way to say, listen.
+
+200
+00:09:00,600 --> 00:09:01,600
+I don't know.
+
+201
+00:09:01,600 --> 00:09:02,600
+I don't know.
+
+202
+00:09:02,600 --> 00:09:03,600
+I really don't know.
+
+203
+00:09:03,600 --> 00:09:04,600
+Right.
+
+204
+00:09:04,600 --> 00:09:08,200
+The guy was talking about KBPS and all these things, and the other guy was like, I have
+
+205
+00:09:08,200 --> 00:09:09,800
+no idea what you're talking about.
+
+206
+00:09:09,800 --> 00:09:11,080
+I don't understand.
+
+207
+00:09:11,080 --> 00:09:12,960
+And I can definitely empathize.
+
+208
+00:09:12,960 --> 00:09:13,960
+You can relate.
+
+209
+00:09:13,960 --> 00:09:14,960
+Yeah.
+
+210
+00:09:14,960 --> 00:09:16,920
+Well, we'll leave that for another one.
+
+211
+00:09:16,920 --> 00:09:19,600
+But after this, we've got bucks.
+
+212
+00:09:19,600 --> 00:09:20,600
+So bucks.
+
+213
+00:09:20,600 --> 00:09:21,600
+Is this slang?
+
+214
+00:09:21,600 --> 00:09:22,600
+Bucks.
+
+215
+00:09:22,600 --> 00:09:23,600
+A hundred bucks.
+
+216
+00:09:23,600 --> 00:09:24,600
+Two hundred bucks.
+
+217
+00:09:24,600 --> 00:09:25,600
+A lot of money.
+
+218
+00:09:25,600 --> 00:09:26,600
+Right.
+
+219
+00:09:26,600 --> 00:09:28,760
+So bucks is basically another way of saying dollars.
+
+220
+00:09:28,760 --> 00:09:29,760
+All right.
+
+221
+00:09:29,760 --> 00:09:30,760
+So this is a way for...
+
+222
+00:09:30,760 --> 00:09:33,120
+Well, this is a way that most Americans talk about money.
+
+223
+00:09:33,120 --> 00:09:35,400
+It's one buck is one US dollar.
+
+224
+00:09:35,400 --> 00:09:36,400
+All right.
+
+225
+00:09:36,400 --> 00:09:38,720
+So can I borrow 10 bucks, Marco?
+
+226
+00:09:38,720 --> 00:09:39,720
+Right.
+
+227
+00:09:39,720 --> 00:09:40,720
+Yeah, sure.
+
+228
+00:09:40,720 --> 00:09:41,720
+There you go.
+
+229
+00:09:41,720 --> 00:09:43,480
+Now, bucks, you can only use it for American currency, right?
+
+230
+00:09:43,480 --> 00:09:45,000
+You can't use it for like euros or...
+
+231
+00:09:45,000 --> 00:09:46,000
+No.
+
+232
+00:09:46,000 --> 00:09:47,760
+I mean, I wouldn't say like 10 euros would be 10 bucks.
+
+233
+00:09:47,760 --> 00:09:48,760
+No, no, no, no.
+
+234
+00:09:48,760 --> 00:09:52,320
+Usually, you say this about American dollars and you say this just when you're hanging
+
+235
+00:09:52,320 --> 00:09:53,880
+out or how much does this cost?
+
+236
+00:09:53,880 --> 00:09:54,880
+Oh, five bucks.
+
+237
+00:09:54,880 --> 00:09:55,880
+Yeah.
+
+238
+00:09:55,880 --> 00:09:56,880
+Very good.
+
+239
+00:09:56,880 --> 00:09:59,680
+So the guy was telling him about the price of the internet and everything.
+
+240
+00:09:59,680 --> 00:10:03,240
+And he said that he's going to throw in a pen drive, right?
+
+241
+00:10:03,240 --> 00:10:04,240
+He's going to throw it?
+
+242
+00:10:04,240 --> 00:10:05,240
+He's going to throw it at him.
+
+243
+00:10:05,240 --> 00:10:08,560
+No, he's going to throw in a pen drive for free.
+
+244
+00:10:08,560 --> 00:10:09,640
+Oh, sweet.
+
+245
+00:10:09,640 --> 00:10:13,000
+So throw in means to add.
+
+246
+00:10:13,000 --> 00:10:14,000
+Or include.
+
+247
+00:10:14,000 --> 00:10:15,000
+Include.
+
+248
+00:10:15,000 --> 00:10:16,440
+So, listen.
+
+249
+00:10:16,440 --> 00:10:22,560
+Sir, here's your large popcorn and I'm going to throw in a small diet Coke for free.
+
+250
+00:10:22,560 --> 00:10:23,560
+Wow.
+
+251
+00:10:23,560 --> 00:10:25,360
+How generous of me.
+
+252
+00:10:25,360 --> 00:10:29,320
+So you throw in something, you include it for free, right?
+
+253
+00:10:29,320 --> 00:10:30,320
+Exactly.
+
+254
+00:10:30,320 --> 00:10:32,400
+So this is usually a complimentary item.
+
+255
+00:10:32,400 --> 00:10:33,400
+Great.
+
+256
+00:10:33,400 --> 00:10:36,640
+I think this word is really interesting or this phrase.
+
+257
+00:10:36,640 --> 00:10:41,080
+So why don't we listen to a couple of other examples using throw in.
+
+258
+00:10:41,080 --> 00:10:44,040
+Example one.
+
+259
+00:10:44,040 --> 00:10:49,520
+If you buy two pizzas, we will throw in another one for free.
+
+260
+00:10:49,520 --> 00:10:50,520
+Example two.
+
+261
+00:10:50,520 --> 00:10:54,720
+Tell you what.
+
+262
+00:10:54,720 --> 00:10:59,560
+I'll buy this computer if you throw in a pair of headphones.
+
+263
+00:10:59,560 --> 00:11:01,720
+Deal?
+
+264
+00:11:01,720 --> 00:11:04,960
+Example three.
+
+265
+00:11:04,960 --> 00:11:09,000
+The salesman threw in a subscription to the local newspaper for buying his product.
+
+266
+00:11:09,000 --> 00:11:11,440
+Isn't that great?
+
+267
+00:11:11,440 --> 00:11:12,440
+All right.
+
+268
+00:11:12,440 --> 00:11:13,440
+Great.
+
+269
+00:11:13,440 --> 00:11:14,440
+So good examples.
+
+270
+00:11:14,440 --> 00:11:15,560
+I think it's clear now.
+
+271
+00:11:15,560 --> 00:11:17,840
+The phrases, all these words related to the internet.
+
+272
+00:11:17,840 --> 00:11:18,840
+Absolutely.
+
+273
+00:11:18,840 --> 00:11:19,840
+And so useful.
+
+274
+00:11:19,840 --> 00:11:20,840
+Right.
+
+275
+00:11:20,840 --> 00:11:24,120
+So why don't we listen to this dialogue for the last time and then we'll come back and
+
+276
+00:11:24,120 --> 00:11:30,080
+talk a little bit more.
+
+277
+00:11:30,080 --> 00:11:31,420
+Welcome to Gallinet.
+
+278
+00:11:31,420 --> 00:11:32,680
+How can I help you?
+
+279
+00:11:32,680 --> 00:11:33,680
+Hi.
+
+280
+00:11:33,680 --> 00:11:35,960
+I would like to get an internet plan for my house.
+
+281
+00:11:35,960 --> 00:11:38,000
+Of course.
+
+282
+00:11:38,000 --> 00:11:41,720
+We have three different plans with different prices you can choose from.
+
+283
+00:11:41,720 --> 00:11:46,720
+The first one is the cheapest but most basic plan, which is $30 a month.
+
+284
+00:11:46,720 --> 00:11:52,520
+This is for broadband internet with a download speed of 512 kbps.
+
+285
+00:11:52,520 --> 00:11:55,680
+I have no idea what kbps means.
+
+286
+00:11:55,680 --> 00:11:59,320
+I just want to be able to get online, play games, and chat with my friends.
+
+287
+00:11:59,320 --> 00:12:01,720
+Oh, and watch movies online as well.
+
+288
+00:12:01,720 --> 00:12:05,440
+Well, this connection might be a bit too slow for your needs.
+
+289
+00:12:05,440 --> 00:12:10,280
+I suggest you get the premium package for $50 a month, which includes a connection speed
+
+290
+00:12:10,280 --> 00:12:11,880
+of 2 megabytes.
+
+291
+00:12:11,880 --> 00:12:15,000
+That way, you can play games online without any lag.
+
+292
+00:12:15,000 --> 00:12:19,680
+This package also includes a wireless router and a personal firewall, absolutely free.
+
+293
+00:12:19,680 --> 00:12:22,520
+Do I have to pay an installation fee?
+
+294
+00:12:22,520 --> 00:12:26,560
+Lucky for you, this month we aren't charging our normal installation fee.
+
+295
+00:12:26,560 --> 00:12:29,320
+You are saving yourself $100 right there.
+
+296
+00:12:29,320 --> 00:12:32,320
+And we'll throw in this pen drive.
+
+297
+00:12:32,320 --> 00:12:34,040
+Awesome!
+
+298
+00:12:34,040 --> 00:12:40,560
+So the internet is a big deal nowadays and now you can do so much on it.
+
+299
+00:12:40,560 --> 00:12:47,720
+Not only navigate websites anymore, but watch movies, download applications, photos, Facebook,
+
+300
+00:12:47,720 --> 00:12:50,320
+all this type of things now you can do on the internet.
+
+301
+00:12:50,320 --> 00:12:54,280
+You can even do it from your phone, like when you're in the bathroom or on the train.
+
+302
+00:12:54,280 --> 00:12:56,120
+I mean, it's scary.
+
+303
+00:12:56,120 --> 00:12:57,600
+We're always connected.
+
+304
+00:12:57,600 --> 00:12:58,600
+Right.
+
+305
+00:12:58,600 --> 00:12:59,600
+So it's interesting.
+
+306
+00:12:59,600 --> 00:13:00,720
+You're always connected.
+
+307
+00:13:00,720 --> 00:13:03,280
+You're always online with people.
+
+308
+00:13:03,280 --> 00:13:07,920
+And it's actually very noticeable when you maybe live somewhere else.
+
+309
+00:13:07,920 --> 00:13:09,640
+Before you used to have to write letters.
+
+310
+00:13:09,640 --> 00:13:13,760
+I don't think many people receive handwritten letters anymore.
+
+311
+00:13:13,760 --> 00:13:14,760
+Never.
+
+312
+00:13:14,760 --> 00:13:15,760
+I'm speaking for myself.
+
+313
+00:13:15,760 --> 00:13:17,120
+I never receive.
+
+314
+00:13:17,120 --> 00:13:18,280
+And I don't write them either.
+
+315
+00:13:18,280 --> 00:13:20,120
+So I guess I'm guilty of it.
+
+316
+00:13:20,120 --> 00:13:22,000
+So now people just send emails.
+
+317
+00:13:22,000 --> 00:13:27,080
+Obviously it's more convenient, but maybe it's a little bit less significant maybe than
+
+318
+00:13:27,080 --> 00:13:31,040
+actually going to the post office or taking the time to write a letter, going to the post
+
+319
+00:13:31,040 --> 00:13:32,040
+office and stuff.
+
+320
+00:13:32,040 --> 00:13:33,040
+Well, I don't know.
+
+321
+00:13:33,040 --> 00:13:36,000
+I mean, there's something nice about having a physical thing you can hold on to, but I
+
+322
+00:13:36,000 --> 00:13:39,120
+wonder if one day we're going to forget how to write.
+
+323
+00:13:39,120 --> 00:13:40,640
+You know, like write with a pen.
+
+324
+00:13:40,640 --> 00:13:41,640
+With a pen and pencil.
+
+325
+00:13:41,640 --> 00:13:42,640
+Exactly.
+
+326
+00:13:42,640 --> 00:13:45,120
+We're going to have these little PDAs and these little iPhones and they're going to
+
+327
+00:13:45,120 --> 00:13:48,560
+just, you're going to talk and they're going to take everything down in note form for you.
+
+328
+00:13:48,560 --> 00:13:51,520
+Well, now it's kind of happening with the Kindle, right?
+
+329
+00:13:51,520 --> 00:13:57,000
+Now you can have books on this electronic device that lets you read through them.
+
+330
+00:13:57,000 --> 00:13:59,720
+You can carry a hundred books with you to the beach.
+
+331
+00:13:59,720 --> 00:14:05,320
+So now you don't even really need physical books, which is good on some level because
+
+332
+00:14:05,320 --> 00:14:09,160
+you know, you're saving trees and space and all that stuff.
+
+333
+00:14:09,160 --> 00:14:12,440
+But there's something physical about reading a book.
+
+334
+00:14:12,440 --> 00:14:15,600
+You hold it, you flip the pages, you know how many pages you have left.
+
+335
+00:14:15,600 --> 00:14:16,600
+I don't know.
+
+336
+00:14:16,600 --> 00:14:17,600
+We'll see.
+
+337
+00:14:17,600 --> 00:14:20,600
+Maybe I'll be a convert one day, but for now I'm good with paper books.
+
+338
+00:14:20,600 --> 00:14:21,600
+All right.
+
+339
+00:14:21,600 --> 00:14:25,280
+So what do you guys think about the internet, about electronic books?
+
+340
+00:14:25,280 --> 00:14:28,960
+You can also tell us any problems or confusion you have with the things that we talked about
+
+341
+00:14:28,960 --> 00:14:29,960
+today.
+
+342
+00:14:29,960 --> 00:14:32,640
+Hopefully everything is clear, but if not, we are here to answer your questions.
+
+343
+00:14:32,640 --> 00:14:33,640
+We like to do so.
+
+344
+00:14:33,640 --> 00:14:35,280
+So check out our website, EnglishPod.com.
+
+345
+00:14:35,280 --> 00:14:36,280
+All right.
+
+346
+00:14:36,280 --> 00:14:38,160
+We'll see you guys there and until next time.
+
+347
+00:14:38,160 --> 00:14:59,160
+Goodbye everyone.
+
+

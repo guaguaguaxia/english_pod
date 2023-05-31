@@ -1,0 +1,1129 @@
+1
+00:00:00,000 --> 00:00:04,360
+Hello English learners, welcome back to EnglishPod.
+
+2
+00:00:04,360 --> 00:00:05,440
+My name is Marco.
+
+3
+00:00:05,440 --> 00:00:06,800
+And I'm Erika.
+
+4
+00:00:06,800 --> 00:00:09,800
+And we're bringing you a very advanced lesson today.
+
+5
+00:00:09,800 --> 00:00:10,800
+That's right.
+
+6
+00:00:10,800 --> 00:00:13,720
+We're talking about another business topic, aren't we?
+
+7
+00:00:13,720 --> 00:00:18,540
+It's a topic that's kind of popular these days, all about efficiency and reducing costs.
+
+8
+00:00:18,540 --> 00:00:22,160
+So we're going to be talking about the just-in-time philosophy.
+
+9
+00:00:22,160 --> 00:00:26,200
+I don't know much about this philosophy, so good thing we've got Marco here.
+
+10
+00:00:26,200 --> 00:00:29,880
+Well, what we are going to be looking at is not really in-depth.
+
+11
+00:00:29,880 --> 00:00:33,800
+We're just going to be looking at some basic points of what a just-in-time philosophy would
+
+12
+00:00:33,800 --> 00:00:35,480
+be like in a company.
+
+13
+00:00:35,480 --> 00:00:38,680
+But what we're really going to be looking at is the language to do with this philosophy,
+
+14
+00:00:38,680 --> 00:00:39,680
+right?
+
+15
+00:00:39,680 --> 00:00:40,680
+Exactly.
+
+16
+00:00:40,680 --> 00:00:43,840
+We're going to be looking at some technical terms and some other useful phrases that you
+
+17
+00:00:43,840 --> 00:00:46,680
+can use when you are talking in a business setting.
+
+18
+00:00:46,680 --> 00:00:47,680
+Okay.
+
+19
+00:00:47,680 --> 00:00:49,280
+Well, why don't we get started with the language then?
+
+20
+00:00:49,280 --> 00:00:50,280
+Okay.
+
+21
+00:00:50,280 --> 00:00:52,480
+Let's take a look at vocabulary preview.
+
+22
+00:00:52,480 --> 00:00:53,840
+Vocabulary preview.
+
+23
+00:00:53,840 --> 00:00:57,800
+On vocabulary preview today, we have the word lead time.
+
+24
+00:00:57,800 --> 00:00:58,960
+Lead time.
+
+25
+00:00:58,960 --> 00:00:59,960
+L-E-A-D, lead.
+
+26
+00:00:59,960 --> 00:01:00,960
+Lead time.
+
+27
+00:01:00,960 --> 00:01:01,960
+Right.
+
+28
+00:01:01,960 --> 00:01:02,960
+Like lead.
+
+29
+00:01:02,960 --> 00:01:05,960
+This is something that factories usually would use.
+
+30
+00:01:05,960 --> 00:01:06,960
+Yeah.
+
+31
+00:01:06,960 --> 00:01:07,960
+Yeah.
+
+32
+00:01:07,960 --> 00:01:13,600
+I guess lead time is the time in between point A and point B on a production schedule,
+
+33
+00:01:13,600 --> 00:01:14,600
+right?
+
+34
+00:01:14,600 --> 00:01:15,600
+Right.
+
+35
+00:01:15,600 --> 00:01:17,440
+So you could have, for example, production lead time.
+
+36
+00:01:17,440 --> 00:01:23,160
+So that's the time between when you make an order and when the product is finished.
+
+37
+00:01:23,160 --> 00:01:24,160
+Exactly.
+
+38
+00:01:24,160 --> 00:01:26,160
+And you could also have delivery lead time.
+
+39
+00:01:26,160 --> 00:01:31,280
+So the time between when you place an order and when the product gets delivered to you.
+
+40
+00:01:31,280 --> 00:01:34,040
+So depending on the companies, you have different lead times.
+
+41
+00:01:34,040 --> 00:01:38,240
+Some are three days, other are five days, other are 45 days.
+
+42
+00:01:38,240 --> 00:01:42,960
+And we at EnglishPod have a two week lead time for our podcast, right?
+
+43
+00:01:42,960 --> 00:01:45,920
+But our delivery lead time is every other day.
+
+44
+00:01:45,920 --> 00:01:46,920
+That's true.
+
+45
+00:01:46,920 --> 00:01:47,920
+Nice.
+
+46
+00:01:47,920 --> 00:01:48,920
+Okay.
+
+47
+00:01:48,920 --> 00:01:49,920
+That's all we're going to be previewing today.
+
+48
+00:01:49,920 --> 00:01:54,240
+So why don't we just listen to the dialogue and then we'll come back and explain some
+
+49
+00:01:54,240 --> 00:02:04,440
+of these tricky vocabulary words that we'll see.
+
+50
+00:02:04,440 --> 00:02:08,520
+I called this meeting today in order to discuss our manufacturing plan.
+
+51
+00:02:08,520 --> 00:02:13,240
+As I'm sure you're all aware, with the credit crunch and the global financial crisis, we're
+
+52
+00:02:13,240 --> 00:02:17,320
+obligated to look for more cost efficient ways of producing our goods.
+
+53
+00:02:17,320 --> 00:02:20,080
+We don't want to have to be looking at redundancies.
+
+54
+00:02:20,080 --> 00:02:25,520
+So we've outlined a brief plan to implement the just-in-time philosophy.
+
+55
+00:02:25,520 --> 00:02:28,480
+We have two basic points that we want to focus on.
+
+56
+00:02:28,480 --> 00:02:31,360
+First of all, we want to reduce our lead time.
+
+57
+00:02:31,360 --> 00:02:33,200
+Why would we want to do that?
+
+58
+00:02:33,200 --> 00:02:36,960
+I think this is not an area that really needs to be worked on.
+
+59
+00:02:36,960 --> 00:02:41,720
+Well, we want to reduce production and delivery lead times for better overall efficiency.
+
+60
+00:02:41,720 --> 00:02:42,720
+Right.
+
+61
+00:02:42,720 --> 00:02:47,960
+Production lead times can be reduced by moving workstations closer together, reducing queue
+
+62
+00:02:47,960 --> 00:02:52,720
+length like, for example, reducing the number of jobs waiting to be processed at a given
+
+63
+00:02:52,720 --> 00:02:59,240
+machine, and improving the coordination and cooperation between successive processes.
+
+64
+00:02:59,240 --> 00:03:04,120
+Delivery lead times can be reduced through close cooperation with suppliers, possibly
+
+65
+00:03:04,120 --> 00:03:09,440
+by inducing suppliers to locate closer to the factory, or working with a faster shipping
+
+66
+00:03:09,440 --> 00:03:10,440
+company.
+
+67
+00:03:10,440 --> 00:03:11,440
+I see.
+
+68
+00:03:11,440 --> 00:03:13,800
+That makes sense.
+
+69
+00:03:13,800 --> 00:03:17,480
+The second point is that we want to require supplier quality assurance and implement a
+
+70
+00:03:17,480 --> 00:03:19,960
+zero-defects quality program.
+
+71
+00:03:19,960 --> 00:03:23,920
+We currently have far too many errors that lead to defective items, and therefore, they
+
+72
+00:03:23,920 --> 00:03:25,720
+must be eliminated.
+
+73
+00:03:25,720 --> 00:03:30,160
+A quality control at the source program must be implemented to give workers personal responsibility
+
+74
+00:03:30,160 --> 00:03:33,880
+for the quality of the work they do, and the authority to stop production when something
+
+75
+00:03:33,880 --> 00:03:34,880
+goes wrong.
+
+76
+00:03:34,880 --> 00:03:36,760
+I'm with you on this one.
+
+77
+00:03:36,760 --> 00:03:39,720
+It's essential that we reduce these errors.
+
+78
+00:03:39,720 --> 00:03:43,040
+We've got to force our suppliers to reduce their mistakes.
+
+79
+00:03:43,040 --> 00:03:44,040
+Exactly.
+
+80
+00:03:44,040 --> 00:03:47,120
+Well, let's look at how we're going to put this plan into action.
+
+81
+00:03:47,120 --> 00:03:48,120
+First.
+
+82
+00:03:48,120 --> 00:03:59,680
+Okay, so they're going to implement just in time in their company.
+
+83
+00:03:59,680 --> 00:04:00,680
+Yes.
+
+84
+00:04:00,680 --> 00:04:03,120
+Yeah, I guess they're putting in some cost control measures.
+
+85
+00:04:03,120 --> 00:04:05,280
+So, Marco, there's some great language in here.
+
+86
+00:04:05,280 --> 00:04:09,600
+Why don't we look at it now in Language Takeaway?
+
+87
+00:04:09,600 --> 00:04:10,760
+Language Takeaway.
+
+88
+00:04:10,760 --> 00:04:13,720
+Okay, the first word today.
+
+89
+00:04:13,720 --> 00:04:14,880
+Redundancies.
+
+90
+00:04:14,880 --> 00:04:16,000
+Redundancies.
+
+91
+00:04:16,000 --> 00:04:17,200
+Redundancies.
+
+92
+00:04:17,200 --> 00:04:18,760
+Redundancies.
+
+93
+00:04:18,760 --> 00:04:22,280
+So this is kind of a strange word because usually a redundancy is when you're speaking,
+
+94
+00:04:22,280 --> 00:04:23,280
+right?
+
+95
+00:04:23,280 --> 00:04:27,000
+Yeah, maybe when you say something that's already been said.
+
+96
+00:04:27,000 --> 00:04:28,000
+Exactly.
+
+97
+00:04:28,000 --> 00:04:31,920
+You say something that has already been said, but we also use it in the business world.
+
+98
+00:04:31,920 --> 00:04:35,960
+Right, and it comes from the base word redundant, right?
+
+99
+00:04:35,960 --> 00:04:36,960
+Okay.
+
+100
+00:04:36,960 --> 00:04:39,800
+Meaning extra, more than what's needed.
+
+101
+00:04:39,800 --> 00:04:40,800
+Okay.
+
+102
+00:04:40,800 --> 00:04:45,280
+So when a person or position is made redundant, basically it means they get laid off, right?
+
+103
+00:04:45,280 --> 00:04:46,280
+Right.
+
+104
+00:04:46,280 --> 00:04:48,160
+So redundancies are a synonym of layoffs.
+
+105
+00:04:48,160 --> 00:04:49,160
+Exactly.
+
+106
+00:04:49,160 --> 00:04:50,160
+Okay.
+
+107
+00:04:50,160 --> 00:04:52,880
+All right, let's take a look at our next word.
+
+108
+00:04:52,880 --> 00:04:53,880
+Workstations.
+
+109
+00:04:53,880 --> 00:04:54,880
+Workstations.
+
+110
+00:04:54,880 --> 00:04:55,880
+Workstations.
+
+111
+00:04:55,880 --> 00:04:56,880
+Workstations.
+
+112
+00:04:56,880 --> 00:04:58,920
+So workstation could be anything from your desk.
+
+113
+00:04:58,920 --> 00:05:00,720
+Yeah, or maybe a workbench.
+
+114
+00:05:00,720 --> 00:05:02,040
+A workbench.
+
+115
+00:05:02,040 --> 00:05:04,080
+Or even a place on a production line.
+
+116
+00:05:04,080 --> 00:05:05,080
+Right.
+
+117
+00:05:05,080 --> 00:05:07,240
+So you're a certain machine or something like that.
+
+118
+00:05:07,240 --> 00:05:10,720
+So basically a workstation is the area where you work.
+
+119
+00:05:10,720 --> 00:05:11,720
+Okay.
+
+120
+00:05:11,720 --> 00:05:17,040
+So you can say, can we get a new workstation for the new team member?
+
+121
+00:05:17,040 --> 00:05:21,200
+Or I could say, I want to move my workstation closer to my employees.
+
+122
+00:05:21,200 --> 00:05:22,200
+All right.
+
+123
+00:05:22,200 --> 00:05:23,200
+So workstation.
+
+124
+00:05:23,200 --> 00:05:25,760
+Okay, let's take a look at our next word.
+
+125
+00:05:25,760 --> 00:05:27,520
+At a given machine.
+
+126
+00:05:27,520 --> 00:05:29,200
+At a given machine.
+
+127
+00:05:29,200 --> 00:05:30,480
+At a given.
+
+128
+00:05:30,480 --> 00:05:31,920
+At a given.
+
+129
+00:05:31,920 --> 00:05:34,920
+This is an interesting way to say at any machine.
+
+130
+00:05:34,920 --> 00:05:35,920
+Exactly.
+
+131
+00:05:35,920 --> 00:05:36,920
+Okay.
+
+132
+00:05:36,920 --> 00:05:43,080
+So this is operating exactly the same as here, the word given is operating exactly the same
+
+133
+00:05:43,080 --> 00:05:44,880
+way as any.
+
+134
+00:05:44,880 --> 00:05:45,880
+As any.
+
+135
+00:05:45,880 --> 00:05:46,880
+Yeah.
+
+136
+00:05:46,880 --> 00:05:47,880
+Okay.
+
+137
+00:05:47,880 --> 00:05:51,000
+So let's listen to some examples of how we can change it up a little bit and we can use
+
+138
+00:05:51,000 --> 00:05:53,880
+this given word.
+
+139
+00:05:53,880 --> 00:05:54,880
+Example one.
+
+140
+00:05:54,880 --> 00:06:01,920
+In this factory, how many cars are in production at any given time?
+
+141
+00:06:01,920 --> 00:06:04,400
+Example two.
+
+142
+00:06:04,400 --> 00:06:11,040
+On any given day, about 40 million people use the internet.
+
+143
+00:06:11,040 --> 00:06:13,520
+Example three.
+
+144
+00:06:13,520 --> 00:06:20,120
+Firefighters have to be ready to attend an emergency at any given moment.
+
+145
+00:06:20,120 --> 00:06:21,120
+All right.
+
+146
+00:06:21,120 --> 00:06:23,720
+So any given time, at any given moment.
+
+147
+00:06:23,720 --> 00:06:24,720
+Yep.
+
+148
+00:06:24,720 --> 00:06:26,040
+Um, any given day.
+
+149
+00:06:26,040 --> 00:06:27,040
+Okay.
+
+150
+00:06:27,040 --> 00:06:29,600
+Now let's take a look at our last word today.
+
+151
+00:06:29,600 --> 00:06:30,600
+Defective.
+
+152
+00:06:30,600 --> 00:06:31,600
+Defective.
+
+153
+00:06:31,600 --> 00:06:32,600
+Defective.
+
+154
+00:06:32,600 --> 00:06:33,600
+Defective.
+
+155
+00:06:33,600 --> 00:06:34,600
+Defective.
+
+156
+00:06:34,600 --> 00:06:35,600
+Defective.
+
+157
+00:06:35,600 --> 00:06:36,800
+So if something is defective.
+
+158
+00:06:36,800 --> 00:06:37,880
+It has a problem with it.
+
+159
+00:06:37,880 --> 00:06:38,880
+It has a problem.
+
+160
+00:06:38,880 --> 00:06:39,880
+Yeah.
+
+161
+00:06:39,880 --> 00:06:41,280
+We can say defective is an adjective.
+
+162
+00:06:41,280 --> 00:06:42,280
+Right.
+
+163
+00:06:42,280 --> 00:06:43,680
+And the noun is defect.
+
+164
+00:06:43,680 --> 00:06:44,680
+Defect.
+
+165
+00:06:44,680 --> 00:06:45,680
+Yep.
+
+166
+00:06:45,680 --> 00:06:48,120
+So if something has a defect, it is defective.
+
+167
+00:06:48,120 --> 00:06:49,120
+Right.
+
+168
+00:06:49,120 --> 00:06:54,040
+So for example, maybe you produce chairs and you make one and this chair is missing a wheel.
+
+169
+00:06:54,040 --> 00:06:55,040
+Okay.
+
+170
+00:06:55,040 --> 00:06:56,040
+So it's defective.
+
+171
+00:06:56,040 --> 00:06:57,040
+Yes.
+
+172
+00:06:57,040 --> 00:06:58,040
+The defect is the missing wheel.
+
+173
+00:06:58,040 --> 00:06:59,600
+The defect is the missing.
+
+174
+00:06:59,600 --> 00:07:00,600
+Okay.
+
+175
+00:07:00,600 --> 00:07:03,880
+And before we listen to our dialog again, I want to take a look at this phrase.
+
+176
+00:07:03,880 --> 00:07:05,280
+I'm with you on this one.
+
+177
+00:07:05,280 --> 00:07:06,520
+I'm with you on this one.
+
+178
+00:07:06,520 --> 00:07:07,920
+I'm with you on this one.
+
+179
+00:07:07,920 --> 00:07:09,520
+I'm with you on this one.
+
+180
+00:07:09,520 --> 00:07:10,520
+So what is that?
+
+181
+00:07:10,520 --> 00:07:11,520
+What does that mean exactly?
+
+182
+00:07:11,520 --> 00:07:12,520
+I'm with you on this one.
+
+183
+00:07:12,520 --> 00:07:13,760
+I agree with you.
+
+184
+00:07:13,760 --> 00:07:16,480
+I agree with you on this point.
+
+185
+00:07:16,480 --> 00:07:17,480
+Exactly.
+
+186
+00:07:17,480 --> 00:07:18,480
+Okay.
+
+187
+00:07:18,480 --> 00:07:21,840
+So if you agree with somebody on a certain point, you would say, oh, I'm with you on
+
+188
+00:07:21,840 --> 00:07:22,840
+this one.
+
+189
+00:07:22,840 --> 00:07:23,840
+I agree with you.
+
+190
+00:07:23,840 --> 00:07:24,840
+Exactly.
+
+191
+00:07:24,840 --> 00:07:25,840
+Okay.
+
+192
+00:07:25,840 --> 00:07:29,480
+So now, let's listen to our dialog again and we'll come back and talk a little bit more
+
+193
+00:07:29,480 --> 00:07:44,160
+about the history of this just in time.
+
+194
+00:07:44,160 --> 00:07:48,260
+I called this meeting today in order to discuss our manufacturing plan.
+
+195
+00:07:48,260 --> 00:07:52,960
+As I'm sure you're all aware, with the credit crunch and the global financial crisis, we're
+
+196
+00:07:52,960 --> 00:07:57,040
+obligated to look for more cost-efficient ways of producing our goods.
+
+197
+00:07:57,040 --> 00:08:02,760
+We don't want to have to be looking at redundancies, so we've outlined a brief plan to implement
+
+198
+00:08:02,760 --> 00:08:05,240
+the just-in-time philosophy.
+
+199
+00:08:05,240 --> 00:08:08,200
+We have two basic points that we want to focus on.
+
+200
+00:08:08,200 --> 00:08:11,080
+First of all, we want to reduce our lead time.
+
+201
+00:08:11,080 --> 00:08:12,920
+Why would we want to do that?
+
+202
+00:08:12,920 --> 00:08:16,640
+I think this is not an area that really needs to be walked on.
+
+203
+00:08:16,640 --> 00:08:21,400
+Well, we want to reduce production and delivery lead times for better overall efficiency.
+
+204
+00:08:21,400 --> 00:08:27,360
+Right, production lead times can be reduced by moving workstations closer together, reducing
+
+205
+00:08:27,360 --> 00:08:32,040
+queue length like, for example, reducing the number of jobs waiting to be processed at
+
+206
+00:08:32,040 --> 00:08:38,960
+a given machine, and improving the coordination and cooperation between successive processes.
+
+207
+00:08:38,960 --> 00:08:43,840
+Delivery lead times can be reduced through close cooperation with suppliers, possibly
+
+208
+00:08:43,840 --> 00:08:49,040
+by inducing suppliers to locate closer to the factory, or working with a faster shipping
+
+209
+00:08:49,040 --> 00:08:50,040
+company.
+
+210
+00:08:50,040 --> 00:08:51,960
+I see.
+
+211
+00:08:51,960 --> 00:08:53,520
+That makes sense.
+
+212
+00:08:53,520 --> 00:08:57,200
+The second point is that we want to require supplier quality assurance and implement a
+
+213
+00:08:57,200 --> 00:08:59,720
+zero-defects quality program.
+
+214
+00:08:59,720 --> 00:09:03,680
+We currently have far too many errors that lead to defective items, and therefore, they
+
+215
+00:09:03,680 --> 00:09:05,480
+must be eliminated.
+
+216
+00:09:05,480 --> 00:09:09,920
+A quality control at the source program must be implemented to give workers personal responsibility
+
+217
+00:09:09,920 --> 00:09:13,640
+for the quality of the work they do, and the authority to stop production when something
+
+218
+00:09:13,640 --> 00:09:14,640
+goes wrong.
+
+219
+00:09:14,640 --> 00:09:16,480
+I'm with you on this one.
+
+220
+00:09:16,480 --> 00:09:19,480
+It's essential that we reduce these errors.
+
+221
+00:09:19,480 --> 00:09:22,840
+We've got to force our suppliers to reduce their mistakes.
+
+222
+00:09:22,840 --> 00:09:23,840
+Exactly.
+
+223
+00:09:23,840 --> 00:09:27,080
+Well, let's look at how we're going to put this plan into action.
+
+224
+00:09:27,080 --> 00:09:28,080
+First...
+
+225
+00:09:28,080 --> 00:09:39,400
+All right, so Marco, I mentioned at the beginning of the lesson that I don't know much about
+
+226
+00:09:39,400 --> 00:09:42,680
+just-in-time, but luckily you do, right?
+
+227
+00:09:42,680 --> 00:09:45,360
+Yeah, I know a little bit about it.
+
+228
+00:09:45,360 --> 00:09:48,360
+So tell me a little bit about where this philosophy came from.
+
+229
+00:09:48,360 --> 00:09:50,800
+What are the origins of this idea?
+
+230
+00:09:50,800 --> 00:09:55,720
+It actually became really popular with Toyota, and it was called the Toyota Production System.
+
+231
+00:09:55,720 --> 00:10:00,560
+So many people think it's Japanese, but in reality, the Japanese got it from the United
+
+232
+00:10:00,560 --> 00:10:01,560
+States.
+
+233
+00:10:01,560 --> 00:10:07,520
+It's a philosophy that was thought up by Ford Motor Company in order to improve their production
+
+234
+00:10:07,520 --> 00:10:08,520
+line.
+
+235
+00:10:08,520 --> 00:10:12,880
+But when the Japanese visited Ford Motor Company, it wasn't fully implemented yet, and oddly
+
+236
+00:10:12,880 --> 00:10:17,680
+enough, they found this philosophy working already in a piggly-wiggly.
+
+237
+00:10:17,680 --> 00:10:19,240
+What's a piggly-wiggly?
+
+238
+00:10:19,240 --> 00:10:23,800
+Piggly-wiggly was a chain of grocery stores in the United States.
+
+239
+00:10:23,800 --> 00:10:28,280
+I'm not sure if they're still around, but yeah, they were really big, and basically
+
+240
+00:10:28,280 --> 00:10:34,560
+piggly-wiggly was using this to improve their whole system of shipping and of stocking and
+
+241
+00:10:34,560 --> 00:10:35,560
+everything.
+
+242
+00:10:35,560 --> 00:10:37,200
+Okay, so how does it work?
+
+243
+00:10:37,200 --> 00:10:42,520
+So basically what you try to do is make your processes more efficient, reduce the amount
+
+244
+00:10:42,520 --> 00:10:45,040
+of space you're using, et cetera.
+
+245
+00:10:45,040 --> 00:10:48,440
+And this was really important for Japanese because, of course, they don't have that much
+
+246
+00:10:48,440 --> 00:10:53,040
+space in Japan to have these huge warehouses like in other countries.
+
+247
+00:10:53,040 --> 00:10:58,040
+So what you're saying is they're producing goods just for the time they need it, right?
+
+248
+00:10:58,040 --> 00:10:59,040
+Exactly.
+
+249
+00:10:59,040 --> 00:11:03,040
+So trying to not be overstocked or- Or have a long lead time or something.
+
+250
+00:11:03,040 --> 00:11:07,980
+Long lead times where you have to keep something in a warehouse, exactly.
+
+251
+00:11:07,980 --> 00:11:10,000
+So that's why it's so efficient.
+
+252
+00:11:10,000 --> 00:11:13,360
+And also it's about improving the efficiency between processes.
+
+253
+00:11:13,360 --> 00:11:15,960
+So what's sometimes called a bottleneck.
+
+254
+00:11:15,960 --> 00:11:19,480
+You can have really good processes in the beginning, but in the end, maybe you have
+
+255
+00:11:19,480 --> 00:11:24,480
+only one workstation that's taking all these orders and everything gets bottled up and
+
+256
+00:11:24,480 --> 00:11:25,480
+it causes delays.
+
+257
+00:11:25,480 --> 00:11:26,480
+It's slow, yeah.
+
+258
+00:11:26,480 --> 00:11:30,800
+So in the dialogue, they want to implement the just-in-time strategy as a way of avoiding
+
+259
+00:11:30,800 --> 00:11:31,800
+redundancies.
+
+260
+00:11:31,800 --> 00:11:36,120
+But it sounds to me like actually this might cause redundancies sometimes.
+
+261
+00:11:36,120 --> 00:11:39,960
+Well, yeah, sometimes it does.
+
+262
+00:11:39,960 --> 00:11:44,560
+Sometimes when you make workstations more efficient or when you make all your processes
+
+263
+00:11:44,560 --> 00:11:51,600
+work more fluidly, sometimes inevitably you will have to lay off some people that are
+
+264
+00:11:51,600 --> 00:11:52,600
+redundant.
+
+265
+00:11:52,600 --> 00:11:53,600
+Okay.
+
+266
+00:11:53,600 --> 00:11:56,040
+Have you ever worked in a company where they've implemented just-in-time?
+
+267
+00:11:56,040 --> 00:12:00,600
+No, actually, I've never really worked at a place where this philosophy was working,
+
+268
+00:12:00,600 --> 00:12:07,160
+but I did used to work at a place where we had Six Sigma, which is a little bit similar.
+
+269
+00:12:07,160 --> 00:12:11,040
+Well, I guess we'll need a lesson on Six Sigma in the future.
+
+270
+00:12:11,040 --> 00:12:15,120
+Yeah, we'll see if we come up with Six Sigma and what it means.
+
+271
+00:12:15,120 --> 00:12:18,520
+It's kind of interesting, but we want to hear what you think.
+
+272
+00:12:18,520 --> 00:12:19,520
+Yes.
+
+273
+00:12:19,520 --> 00:12:22,960
+Have you guys worked in a place where they use just-in-time?
+
+274
+00:12:22,960 --> 00:12:23,960
+Exactly.
+
+275
+00:12:23,960 --> 00:12:29,280
+Or if you have any quality control measures or how does your company avoid having defective
+
+276
+00:12:29,280 --> 00:12:31,560
+items or defective services?
+
+277
+00:12:31,560 --> 00:12:34,400
+So visit our website, EnglishPod.com.
+
+278
+00:12:34,400 --> 00:12:39,040
+And Marco and I are always around to respond to your comments and answer your questions.
+
+279
+00:12:39,040 --> 00:12:40,040
+Exactly.
+
+280
+00:12:40,040 --> 00:12:41,040
+So until then, it's-
+
+281
+00:12:41,040 --> 00:12:42,040
+Goodbye.
+
+282
+00:12:42,040 --> 00:13:10,000
+It's a nice day.
+
+
