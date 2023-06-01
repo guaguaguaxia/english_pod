@@ -8,4 +8,4 @@
 对英语听力和口语有非常大的帮助
 
 ### 资料
-音频文件可以从 [这里]("https://archive.org/details/englishpod_all") 获取,也可以去各大平台直接搜索。
+音频文件可以从 [这里](https://archive.org/details/englishpod_all) 获取,也可以去各大平台直接搜索。
