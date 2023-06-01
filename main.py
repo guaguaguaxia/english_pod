@@ -60,8 +60,8 @@ if __name__ == '__main__':
     proxy = "http://127.0.0.1:7890"
     os.environ["http_proxy"] = proxy
     os.environ["https_proxy"] = proxy
-    api_key = "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"
-    # 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
+    api_key = "sk-xxxxxxx"
+
     dir_path = "C:\\Users\\guagu\\Desktop\\english_pod_audio\\"
     # transcribe_single_audio(api_key, "C:\\Users\\guagu\\Desktop\\english_pod_audio\\englishpod_0001pb.mp3", "C:\\Users\\guagu\\Desktop\\english_pod_audio\\englishpod_0001pb.srt")
     # transcribe_all_audio(api_key, dir_path)
